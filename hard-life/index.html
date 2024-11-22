@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0,  minimum-scale=1.0, target-densitydpi=device-dpi" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" /> 
+
+    <title>Hard Life</title> 
+    <link rel="stylesheet" href="assets/css/app.css" type="text/css" />
+
+</head>
+
+<body>
+
+    <div id="content"></div>
+    <div id="orientation">
+        <img id="img" src="assets/sprites/rotate-phone-icon-white.png" />
+    </div>
+    <div id="loader">Loading...</div>
+
+    <script type="text/javascript">
+        var gameName = "hard-life.min.js";
+        const IS_RELEASE = false;
+
+
+
+
+
+
+        //This all here is for cache busting;
+        function addScript(src, buster, callback) {
+            var s = document.createElement('script');
+            s.setAttribute('src', src + '?v=' + buster);
+            if (typeof callback === 'function') {
+                s.onload = callback;
+            }
+            document.body.appendChild(s);
+        }
+
+
+        addScript('version.js', Date.now(), function() {
+
+            addScript(gameName, version, function() {
+                var game = new PhaserGame.Client.GameEngine();
+            });
+
+        });
+    </script>
+</body>
+
+</html>

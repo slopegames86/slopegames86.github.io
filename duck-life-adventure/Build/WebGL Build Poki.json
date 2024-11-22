@@ -1,0 +1,19 @@
+{
+"companyName": "Wix Games",
+"productName": "Adventure",
+"productVersion": "1.18",
+"dataUrl": "WebGL Build Poki.data.unityweb",
+"wasmCodeUrl": "WebGL Build Poki.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL Build Poki.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1",
+"totalFile": 3,
+"size": 122015868,
+"split_size": 40671956
+}

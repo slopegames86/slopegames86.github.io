@@ -1,0 +1,37 @@
+@font-face {
+    font-family: VAGzStarBold;
+    src: url('../fonts/vrzb.eot');
+    src: url('../fonts/vrzb.eot?#iefix') format('eot'),
+    url('../fonts/vrzb.woff') format('woff'),
+    url('../fonts/vrzb.ttf') format('truetype'),
+    url('../fonts/vrzb.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    overflow: hidden;
+}
+
+body {
+    background-color: #330033;
+    font-family: 'Segoe UI', sans-serif;
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+#orientation {
+    margin: 0;
+    padding: 0;
+}
+
+#img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 24%;
+    height: 24%;
+}
+
+

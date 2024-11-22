@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "cityscape.png",
+	"frame": {"x":1,"y":102,"w":512,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":512,"h":158},
+	"sourceSize": {"w":512,"h":160}
+},
+{
+	"filename": "cloud1.png",
+	"frame": {"x":303,"y":1,"w":256,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":99},
+	"sourceSize": {"w":256,"h":99}
+},
+{
+	"filename": "cloud2.png",
+	"frame": {"x":131,"y":1,"w":170,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":76},
+	"sourceSize": {"w":170,"h":76}
+},
+{
+	"filename": "cloud3.png",
+	"frame": {"x":1,"y":1,"w":128,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":47},
+	"sourceSize": {"w":128,"h":47}
+},
+{
+	"filename": "sky_gradient.png",
+	"frame": {"x":561,"y":1,"w":1,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":256},
+	"sourceSize": {"w":1,"h":256}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "outdoor_environment.png",
+	"format": "RGBA8888",
+	"size": {"w":563,"h":261},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2b590aa9ff92dd16006ced82ee8dcf26:fbf58b5453fa35bb165a83106d4fef70:a56fd8a4bacb5abb93d39a51c2ae6d8c$"
+}
+}

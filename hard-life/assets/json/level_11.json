@@ -1,0 +1,9498 @@
+
+{
+	"allowSleep" : true,
+	"autoClearForces" : true,
+	"body" : 
+	[
+		
+		{
+			"angle" : -1.559808254241943,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 8,
+					"filter-maskBits" : 145,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								2.809641838073731,
+								2.809641838073731,
+								-2.748142242431641,
+								-2.748142242431641
+							],
+							"y" : 
+							[
+								-0.1036701202392578,
+								0.1993370056152344,
+								0.1993370056152344,
+								-0.1036701202392578
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body0",
+			"position" : 
+			{
+				"x" : 17.51226425170898,
+				"y" : 20.98348426818848
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 178,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.2009700536727905,
+								0.1976890563964844,
+								-0.1929429769515991,
+								-0.1962144374847412
+							],
+							"y" : 
+							[
+								-0.0942159891128540,
+								0.006953179836273193,
+								0.004255890846252441,
+								-0.09068661928176880
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "mineBody2",
+			"position" : 
+			{
+				"x" : 10.36455249786377,
+				"y" : -0.7794036865234375
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9667739868164063, 0.9045372009277344 ],
+							"y" : [ -0.2354252338409424, -0.2354252338409424 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "relaxBody3",
+			"position" : 
+			{
+				"x" : 13.86089324951172,
+				"y" : 11.79448890686035
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9667739868164063, 0.9045372009277344 ],
+							"y" : [ -0.2354252338409424, -0.2354252338409424 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "relaxBody2",
+			"position" : 
+			{
+				"x" : 26.66061973571777,
+				"y" : 7.759687423706055
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9667739868164063, 0.9045372009277344 ],
+							"y" : [ -0.2354252338409424, -0.2354252338409424 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "relaxBody1",
+			"position" : 
+			{
+				"x" : 21.27614593505859,
+				"y" : 12.06837463378906
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9667739868164063, 0.9045372009277344 ],
+							"y" : [ -0.2354252338409424, -0.2354252338409424 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "relaxBody0",
+			"position" : 
+			{
+				"x" : 18.40267181396484,
+				"y" : 18.09902381896973
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9220328330993652, 0.9492783546447754 ],
+							"y" : [ 0.01384615898132324, 0.01384615898132324 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "edgeBody11",
+			"position" : 
+			{
+				"x" : 20.05713844299316,
+				"y" : 9.292032241821289
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9220328330993652, 0.9492783546447754 ],
+							"y" : [ 0.01384615898132324, 0.01384615898132324 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "edgeBody10",
+			"position" : 
+			{
+				"x" : 25.94778060913086,
+				"y" : 9.314601898193359
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9220328330993652, 0.9492783546447754 ],
+							"y" : [ 0.01384615898132324, 0.01384615898132324 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "edgeBody9",
+			"position" : 
+			{
+				"x" : 27.16653442382813,
+				"y" : 9.314600944519043
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.2248590588569641
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 178,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "starBody2",
+			"position" : 
+			{
+				"x" : 7.277624130249023,
+				"y" : 0.7684715390205383
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.2248590588569641
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 178,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "starBody0",
+			"position" : 
+			{
+				"x" : 4.073216438293457,
+				"y" : 22.34066581726074
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.2248590588569641
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 178,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "starBody1",
+			"position" : 
+			{
+				"x" : 16.46743965148926,
+				"y" : 19.98936462402344
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.1911557018756867
+					},
+					"density" : 0.5,
+					"filter-categoryBits" : 128,
+					"filter-maskBits" : 698,
+					"friction" : 0.2,
+					"name" : "ball_fixture",
+					"restitution" : 0.8
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.001048670150339603,
+			"massData-mass" : 0.05739768967032433,
+			"name" : "ballBody0",
+			"position" : 
+			{
+				"x" : 15.02827167510986,
+				"y" : -0.6232366561889648
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 178,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.2009700536727905,
+								0.1976890563964844,
+								-0.1929429769515991,
+								-0.1962144374847412
+							],
+							"y" : 
+							[
+								-0.0942159891128540,
+								0.006953179836273193,
+								0.004255890846252441,
+								-0.09068661928176880
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "mineBody1",
+			"position" : 
+			{
+				"x" : 23.06834983825684,
+				"y" : -0.7794036865234375
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 5,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 187,
+					"friction" : 0.5,
+					"name" : "objectFixture",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.2858397960662842,
+								0.2858397960662842,
+								-0.3168909549713135,
+								-0.3168909549713135
+							],
+							"y" : 
+							[
+								-0.5495174527168274,
+								0.5237409472465515,
+								0.5237409472465515,
+								-0.5495174527168274
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.4097088575363159,
+			"massData-center" : 
+			{
+				"x" : -0.01552557758986950,
+				"y" : -0.01288825366646051
+			},
+			"massData-mass" : 3.234429121017456,
+			"name" : "barrelBody1",
+			"position" : 
+			{
+				"x" : 9.451040267944336,
+				"y" : -0.3346405327320099
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 5,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 187,
+					"friction" : 0.5,
+					"name" : "objectFixture",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.2858397960662842,
+								0.2858397960662842,
+								-0.3168909549713135,
+								-0.3168909549713135
+							],
+							"y" : 
+							[
+								-0.5495174527168274,
+								0.5237409472465515,
+								0.5237409472465515,
+								-0.5495174527168274
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.4097088575363159,
+			"massData-center" : 
+			{
+				"x" : -0.01552557758986950,
+				"y" : -0.01288825366646051
+			},
+			"massData-mass" : 3.234429121017456,
+			"name" : "barrelBody0",
+			"position" : 
+			{
+				"x" : 8.900585174560547,
+				"y" : 0.7602872848510742
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 5,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 187,
+					"friction" : 0.5,
+					"name" : "objectFixture",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.2858397960662842,
+								0.2858397960662842,
+								-0.3168909549713135,
+								-0.3168909549713135
+							],
+							"y" : 
+							[
+								-0.5495174527168274,
+								0.5237409472465515,
+								0.5237409472465515,
+								-0.5495174527168274
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.4097088575363159,
+			"massData-center" : 
+			{
+				"x" : -0.01552557758986950,
+				"y" : -0.01288825366646051
+			},
+			"massData-mass" : 3.234429121017456,
+			"name" : "barrelBody2",
+			"position" : 
+			{
+				"x" : 8.397994995117188,
+				"y" : -0.3346405327320099
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9667739868164063, 44.27733993530273 ],
+							"y" : [ -0.2354252338409424, -0.2354252338409424 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "paraoffBody0",
+			"position" : 
+			{
+				"x" : 6.292577743530273,
+				"y" : -0.2079384326934815
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9667739868164063, 12.52122879028320 ],
+							"y" : [ -0.2354252338409424, -0.2354252338409424 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "paraBody0",
+			"position" : 
+			{
+				"x" : 7.86340332031250,
+				"y" : 7.616848945617676
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 
+						{
+							"x" : -0.007508277893066406,
+							"y" : -0.003364443778991699
+						},
+						"radius" : 0.3355226516723633
+					},
+					"density" : 1,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture8",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "backpackBody0",
+			"position" : 
+			{
+				"x" : 23.03964614868164,
+				"y" : 8.71838378906250
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -4.439670562744141, -1.047313690185547 ],
+							"y" : [ 0.004312992095947266, 0.004312992095947266 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture5",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "bazookaBody0",
+			"position" : 
+			{
+				"x" : 1.682881832122803,
+				"y" : 12.47463703155518
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -3.640321731567383, -1.047313690185547 ],
+							"y" : [ 0.004312992095947266, 0.004312992095947266 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture5",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "bazookaBody1",
+			"position" : 
+			{
+				"x" : 20.64920425415039,
+				"y" : 4.113361358642578
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 0,
+					"filter-maskBits" : 0,
+					"friction" : 0.2,
+					"name" : "fixture7",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.1364841461181641,
+								0.1364841461181641,
+								-0.1364860534667969,
+								-0.1364860534667969
+							],
+							"y" : 
+							[
+								-0.1364845633506775,
+								0.1364845633506775,
+								0.1364845633506775,
+								-0.1364845633506775
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "baseBody",
+			"position" : 
+			{
+				"x" : 28.39824295043945,
+				"y" : 2.642806053161621
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.6522530317306519
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 145,
+					"friction" : 0.2,
+					"name" : "staticsawFixture0"
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.2843048870563507,
+			"massData-mass" : 1.336540460586548,
+			"name" : "staticsawBody3",
+			"position" : 
+			{
+				"x" : 28.39900970458984,
+				"y" : 2.638777732849121
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 0,
+					"filter-maskBits" : 0,
+					"friction" : 0.2,
+					"name" : "fixture7",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.1364841461181641,
+								0.1364841461181641,
+								-0.1364860534667969,
+								-0.1364860534667969
+							],
+							"y" : 
+							[
+								-0.1364845633506775,
+								0.1364845633506775,
+								0.1364845633506775,
+								-0.1364845633506775
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "baseBody",
+			"position" : 
+			{
+				"x" : 26.67129898071289,
+				"y" : 2.642806053161621
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.6522530317306519
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 145,
+					"friction" : 0.2,
+					"name" : "staticsawFixture0"
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.2843048870563507,
+			"massData-mass" : 1.336540460586548,
+			"name" : "staticsawBody2",
+			"position" : 
+			{
+				"x" : 26.67206573486328,
+				"y" : 2.638777732849121
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 179,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								2.809641838073731,
+								2.809641838073731,
+								-2.748142242431641,
+								-2.748142242431641
+							],
+							"y" : 
+							[
+								-0.1036701202392578,
+								0.1993370056152344,
+								0.1993370056152344,
+								-0.1036701202392578
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body0",
+			"position" : 
+			{
+				"x" : 30.26659393310547,
+				"y" : 8.117618560791016
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 5,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 187,
+					"friction" : 0.5,
+					"name" : "objectFixture",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.2858397960662842,
+								0.2858397960662842,
+								-0.3168909549713135,
+								-0.3168909549713135
+							],
+							"y" : 
+							[
+								-0.5495174527168274,
+								0.5237409472465515,
+								0.5237409472465515,
+								-0.5495174527168274
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.4097088575363159,
+			"massData-center" : 
+			{
+				"x" : -0.01552557758986950,
+				"y" : -0.01288825366646051
+			},
+			"massData-mass" : 3.234429121017456,
+			"name" : "barrelBody3",
+			"position" : 
+			{
+				"x" : 16.07724761962891,
+				"y" : 12.69242668151856
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 0,
+					"filter-maskBits" : 0,
+					"friction" : 0.2,
+					"name" : "prismatic_m",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.2183340042829514,
+								0.2183340042829514,
+								-0.2183340042829514,
+								-0.2183340042829514
+							],
+							"y" : 
+							[
+								-0.2183340042829514,
+								0.2183340042829514,
+								0.2183340042829514,
+								-0.2183340042829514
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.006059743929654360,
+			"massData-center" : 
+			{
+				"x" : 5.321174056938105e-010,
+				"y" : 5.321174056938105e-010
+			},
+			"massData-mass" : 0.1906789541244507,
+			"name" : "prismaticBody_mover1",
+			"position" : 
+			{
+				"x" : 22.52750968933106,
+				"y" : 11.93097686767578
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 145,
+					"friction" : 0.2,
+					"name" : "chainsawFixture0",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.1265449970960617,
+								0.1265449970960617,
+								-0.1199930012226105,
+								-0.1199930012226105
+							],
+							"y" : 
+							[
+								-0.7620739936828613,
+								0.7620739936828613,
+								0.7620739936828613,
+								-0.7620739936828613
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.07464908808469772,
+			"massData-center" : 
+			{
+				"x" : 0.003275998169556260,
+				"y" : 2.781877395108268e-009
+			},
+			"massData-mass" : 0.3757604062557221,
+			"name" : "chainsawBody1",
+			"position" : 
+			{
+				"x" : 22.52750968933106,
+				"y" : 11.93097686767578
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 0,
+					"filter-maskBits" : 0,
+					"friction" : 0.2,
+					"name" : "prismatic_m",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.2183340042829514,
+								0.2183340042829514,
+								-0.2183340042829514,
+								-0.2183340042829514
+							],
+							"y" : 
+							[
+								-0.2183340042829514,
+								0.2183340042829514,
+								0.2183340042829514,
+								-0.2183340042829514
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "prismaticBody1",
+			"position" : 
+			{
+				"x" : 22.52750015258789,
+				"y" : 11.93097686767578
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 179,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								2.809641838073731,
+								2.809641838073731,
+								-2.748142242431641,
+								-2.748142242431641
+							],
+							"y" : 
+							[
+								-0.1036701202392578,
+								0.1993370056152344,
+								0.1993370056152344,
+								-0.1036701202392578
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body0",
+			"position" : 
+			{
+				"x" : 24.97535514831543,
+				"y" : 11.90719509124756
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9220328330993652, 0.9492783546447754 ],
+							"y" : [ 0.01384615898132324, 0.01384615898132324 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "edgeBody7",
+			"position" : 
+			{
+				"x" : 21.85945510864258,
+				"y" : 13.01219367980957
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9220328330993652, 0.9492783546447754 ],
+							"y" : [ 0.01384615898132324, 0.01384615898132324 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "edgeBody8",
+			"position" : 
+			{
+				"x" : 28.11445426940918,
+				"y" : 12.94829368591309
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -5.590359687805176, -0.2285244464874268 ],
+							"y" : [ -4.440423965454102, -0.6880507469177246 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "trackFixture0_0",
+					"sensor" : true
+				},
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 5.599037170410156, 0.2853355407714844 ],
+							"y" : [ -4.435673713684082, -0.7 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "trackFixture0_1",
+					"sensor" : true
+				},
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.1
+					},
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "cameraFixture0"
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "cameraBody0",
+			"position" : 
+			{
+				"x" : 16.81740570068359,
+				"y" : 18.24869728088379
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 179,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								2.809641838073731,
+								2.809641838073731,
+								-2.748142242431641,
+								-2.748142242431641
+							],
+							"y" : 
+							[
+								-0.1036701202392578,
+								0.1993370056152344,
+								0.1993370056152344,
+								-0.1036701202392578
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body0",
+			"position" : 
+			{
+				"x" : 17.57973480224609,
+				"y" : 11.90719509124756
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9220328330993652, 0.9492783546447754 ],
+							"y" : [ 0.01384615898132324, 0.01384615898132324 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "edgeBody6",
+			"position" : 
+			{
+				"x" : 20.71883392333984,
+				"y" : 12.94829368591309
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9220328330993652, 0.9492783546447754 ],
+							"y" : [ 0.01384615898132324, 0.01384615898132324 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "edgeBody5",
+			"position" : 
+			{
+				"x" : 14.46383476257324,
+				"y" : 13.01219367980957
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.6522530317306519
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 145,
+					"friction" : 0.2,
+					"name" : "staticsawFixture0"
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.2843048870563507,
+			"massData-mass" : 1.336540460586548,
+			"name" : "staticsawBody0",
+			"position" : 
+			{
+				"x" : 9.534976005554199,
+				"y" : 17.02902603149414
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 0,
+					"filter-maskBits" : 0,
+					"friction" : 0.2,
+					"name" : "fixture7",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.1364841461181641,
+								0.1364841461181641,
+								-0.1364860534667969,
+								-0.1364860534667969
+							],
+							"y" : 
+							[
+								-0.1364845633506775,
+								0.1364845633506775,
+								0.1364845633506775,
+								-0.1364845633506775
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "baseBody",
+			"position" : 
+			{
+				"x" : 9.534209251403809,
+				"y" : 17.03305435180664
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 179,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								2.809641838073731,
+								2.809641838073731,
+								-2.748142242431641,
+								-2.748142242431641
+							],
+							"y" : 
+							[
+								-0.1036701202392578,
+								0.1993370056152344,
+								0.1993370056152344,
+								-0.1036701202392578
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body0",
+			"position" : 
+			{
+				"x" : 12.83673381805420,
+				"y" : 15.01407337188721
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9220328330993652, 0.9492783546447754 ],
+							"y" : [ 0.01384615898132324, 0.01384615898132324 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "edgeBody4",
+			"position" : 
+			{
+				"x" : 15.97583389282227,
+				"y" : 16.05517196655273
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9220328330993652, 0.9492783546447754 ],
+							"y" : [ 0.01384615898132324, 0.01384615898132324 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "edgeBody3",
+			"position" : 
+			{
+				"x" : 9.720833778381348,
+				"y" : 16.11907196044922
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9220328330993652, 0.9492783546447754 ],
+							"y" : [ 0.01384615898132324, 0.01384615898132324 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "edgeBody1",
+			"position" : 
+			{
+				"x" : 17.74646759033203,
+				"y" : 19.39301109313965
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9220328330993652, 0.9492783546447754 ],
+							"y" : [ 0.01384615898132324, 0.01384615898132324 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "edgeBody0",
+			"position" : 
+			{
+				"x" : 11.49146747589111,
+				"y" : 19.45691108703613
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -0.9220328330993652, 0.9492783546447754 ],
+							"y" : [ 0.01384615898132324, 0.01384615898132324 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture2",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "edgeBody2",
+			"position" : 
+			{
+				"x" : 9.994916915893555,
+				"y" : 20.02638626098633
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 179,
+					"friction" : 0.2,
+					"name" : "fixture4",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								2.809641838073731,
+								2.809641838073731,
+								-2.748142242431641,
+								-2.748142242431641
+							],
+							"y" : 
+							[
+								-0.1036701202392578,
+								0.1993370056152344,
+								0.1993370056152344,
+								-0.1036701202392578
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "body0",
+			"position" : 
+			{
+				"x" : 14.60736751556397,
+				"y" : 18.35191154479981
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 0,
+					"filter-maskBits" : 0,
+					"friction" : 0.2,
+					"name" : "prismatic_m",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.2183340042829514,
+								0.2183340042829514,
+								-0.2183340042829514,
+								-0.2183340042829514
+							],
+							"y" : 
+							[
+								-0.2183340042829514,
+								0.2183340042829514,
+								0.2183340042829514,
+								-0.2183340042829514
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.006059743929654360,
+			"massData-center" : 
+			{
+				"x" : 5.321174056938105e-010,
+				"y" : 5.321174056938105e-010
+			},
+			"massData-mass" : 0.1906789541244507,
+			"name" : "prismaticBody_mover0",
+			"position" : 
+			{
+				"x" : 2.524065494537354,
+				"y" : 19.28287124633789
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 0,
+					"filter-maskBits" : 0,
+					"friction" : 0.2,
+					"name" : "prismatic_m",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.2183340042829514,
+								0.2183340042829514,
+								-0.2183340042829514,
+								-0.2183340042829514
+							],
+							"y" : 
+							[
+								-0.2183340042829514,
+								0.2183340042829514,
+								0.2183340042829514,
+								-0.2183340042829514
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "prismaticBody0",
+			"position" : 
+			{
+				"x" : 2.524055957794190,
+				"y" : 19.28287124633789
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 145,
+					"friction" : 0.2,
+					"name" : "chainsawFixture0",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.1265449970960617,
+								0.1265449970960617,
+								-0.1199930012226105,
+								-0.1199930012226105
+							],
+							"y" : 
+							[
+								-0.7620739936828613,
+								0.7620739936828613,
+								0.7620739936828613,
+								-0.7620739936828613
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.07464908808469772,
+			"massData-center" : 
+			{
+				"x" : 0.003275998169556260,
+				"y" : 2.781877395108268e-009
+			},
+			"massData-mass" : 0.3757604062557221,
+			"name" : "chainsawBody0",
+			"position" : 
+			{
+				"x" : 2.524065494537354,
+				"y" : 19.28287124633789
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 178,
+					"friction" : 0.2,
+					"name" : "fixture3",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.2009700536727905,
+								0.1976890563964844,
+								-0.1929429769515991,
+								-0.1962144374847412
+							],
+							"y" : 
+							[
+								-0.0942159891128540,
+								0.006953179836273193,
+								0.004255890846252441,
+								-0.09068661928176880
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "mineBody0",
+			"position" : 
+			{
+				"x" : 1.870504379272461,
+				"y" : 19.36112594604492
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 0,
+					"filter-maskBits" : 0,
+					"friction" : 0.2,
+					"name" : "fixture7",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.1364841461181641,
+								0.1364841461181641,
+								-0.1364860534667969,
+								-0.1364860534667969
+							],
+							"y" : 
+							[
+								-0.1364845633506775,
+								0.1364845633506775,
+								0.1364845633506775,
+								-0.1364845633506775
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "baseBody",
+			"position" : 
+			{
+				"x" : -1.695143461227417,
+				"y" : 16.96324157714844
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.6522530317306519
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 145,
+					"friction" : 0.2,
+					"name" : "staticsawFixture0"
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.2843048870563507,
+			"massData-mass" : 1.336540460586548,
+			"name" : "staticsawBody1",
+			"position" : 
+			{
+				"x" : -1.694376707077026,
+				"y" : 16.95921325683594
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -4.439670562744141, -1.047313690185547 ],
+							"y" : [ 0.004312992095947266, 0.004312992095947266 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture5",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "bazookaBody0",
+			"position" : 
+			{
+				"x" : 1.682881832122803,
+				"y" : 12.47463703155518
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 0,
+					"filter-maskBits" : 0,
+					"friction" : 0.2,
+					"name" : "fixture7",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.1364841461181641,
+								0.1364841461181641,
+								-0.1364860534667969,
+								-0.1364860534667969
+							],
+							"y" : 
+							[
+								-0.1364845633506775,
+								0.1364845633506775,
+								0.1364845633506775,
+								-0.1364845633506775
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "baseBody",
+			"position" : 
+			{
+				"x" : -3.493288278579712,
+				"y" : 7.941426277160645
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.6522530317306519
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 145,
+					"friction" : 0.2,
+					"name" : "staticsawFixture0"
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.2843048870563507,
+			"massData-mass" : 1.336540460586548,
+			"name" : "staticsawBody6",
+			"position" : 
+			{
+				"x" : -3.492521524429321,
+				"y" : 7.937397956848145
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 0,
+					"filter-maskBits" : 0,
+					"friction" : 0.2,
+					"name" : "fixture7",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.1364841461181641,
+								0.1364841461181641,
+								-0.1364860534667969,
+								-0.1364860534667969
+							],
+							"y" : 
+							[
+								-0.1364845633506775,
+								0.1364845633506775,
+								0.1364845633506775,
+								-0.1364845633506775
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "baseBody",
+			"position" : 
+			{
+				"x" : -3.463633298873901,
+				"y" : 16.96324157714844
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.6522530317306519
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 145,
+					"friction" : 0.2,
+					"name" : "staticsawFixture0"
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.2843048870563507,
+			"massData-mass" : 1.336540460586548,
+			"name" : "staticsawBody4",
+			"position" : 
+			{
+				"x" : -3.462866544723511,
+				"y" : 16.95921325683594
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.6522530317306519
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 145,
+					"friction" : 0.2,
+					"name" : "staticsawFixture0"
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.2843048870563507,
+			"massData-mass" : 1.336540460586548,
+			"name" : "staticsawBody7",
+			"position" : 
+			{
+				"x" : -1.765576958656311,
+				"y" : 7.937397956848145
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 0,
+					"filter-maskBits" : 0,
+					"friction" : 0.2,
+					"name" : "fixture7",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.1364841461181641,
+								0.1364841461181641,
+								-0.1364860534667969,
+								-0.1364860534667969
+							],
+							"y" : 
+							[
+								-0.1364845633506775,
+								0.1364845633506775,
+								0.1364845633506775,
+								-0.1364845633506775
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "baseBody",
+			"position" : 
+			{
+				"x" : -1.766343712806702,
+				"y" : 7.941426277160645
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixedRotation" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -3.489434242248535, 1.765774965286255 ],
+							"y" : [ -0.1013237237930298, -0.1013237237930298 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "fixture6",
+					"sensor" : true
+				},
+				
+				{
+					"density" : 0.01,
+					"filter-categoryBits" : 64,
+					"filter-maskBits" : 64,
+					"friction" : 0.2,
+					"name" : "fixture0",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								2.759855031967163,
+								2.759855031967163,
+								-2.815053939819336,
+								-2.815053939819336
+							],
+							"y" : 
+							[
+								0.06936335563659668,
+								1.069363474845886,
+								1.069363474845886,
+								0.06936335563659668
+							]
+						}
+					},
+					"sensor" : true
+				},
+				
+				{
+					"density" : 125.0,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 177,
+					"friction" : 1,
+					"name" : "elevatorFixture0",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								2.820363044738770,
+								-2.864973783493042,
+								-2.709696769714356,
+								2.591279506683350
+							],
+							"y" : 
+							[
+								0.07436409592628479,
+								0.07886210083961487,
+								-0.223593994975090,
+								-0.2321020066738129
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 1.374746441841126,
+			"massData-center" : 
+			{
+				"x" : -0.03382817655801773,
+				"y" : -0.07368115335702896
+			},
+			"massData-mass" : 209.1423187255859,
+			"name" : "elevatorBody0",
+			"position" : 
+			{
+				"x" : -1.520758867263794,
+				"y" : -0.8378314971923828
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.1
+					},
+					"density" : 1,
+					"filter-categoryBits" : 0,
+					"filter-maskBits" : 0,
+					"friction" : 0.2,
+					"name" : "elebatorBase_fixture0"
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "elevatorBase0",
+			"position" : 
+			{
+				"x" : -1.520758867263794,
+				"y" : -0.8378314971923828
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 8,
+					"filter-maskBits" : 145,
+					"name" : "left_wall_fixture",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.5105690956115723,
+								-0.4968290328979492,
+								-0.5077462196350098,
+								0.4894313812255859
+							],
+							"y" : 
+							[
+								9.859243392944336,
+								9.861356735229492,
+								-1.981281757354736,
+								-1.990182995796204
+							]
+						}
+					},
+					"restitution" : 1
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "left_wall",
+			"position" : 
+			{
+				"x" : -10.21846103668213,
+				"y" : 1.113878726959229
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.6522530317306519
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 145,
+					"friction" : 0.2,
+					"name" : "staticsawFixture0"
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.2843048870563507,
+			"massData-mass" : 1.336540460586548,
+			"name" : "staticsawBody5",
+			"position" : 
+			{
+				"x" : -2.486875534057617,
+				"y" : 2.976110935211182
+			},
+			"type" : 2
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 0,
+					"filter-maskBits" : 0,
+					"friction" : 0.2,
+					"name" : "fixture7",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								0.1364841461181641,
+								0.1364841461181641,
+								-0.1364860534667969,
+								-0.1364860534667969
+							],
+							"y" : 
+							[
+								-0.1364845633506775,
+								0.1364845633506775,
+								0.1364845633506775,
+								-0.1364845633506775
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "baseBody",
+			"position" : 
+			{
+				"x" : -2.487642288208008,
+				"y" : 2.980139255523682
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.5
+					},
+					"density" : 1,
+					"filter-categoryBits" : 32,
+					"filter-maskBits" : 16,
+					"friction" : 0.2,
+					"name" : "exitFixture0",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "exitBody0",
+			"position" : 
+			{
+				"x" : 32.51605224609375,
+				"y" : 0.07749914377927780
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.5
+					},
+					"density" : 1,
+					"friction" : 0.2,
+					"name" : "fixture1",
+					"sensor" : true
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "playerPosition",
+			"position" : 
+			{
+				"x" : -7.437997817993164,
+				"y" : 0.9737977981567383
+			},
+			"type" : 0
+		},
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ -4.655335903167725, 64.31080627441406 ],
+							"y" : [ 0.0, 0.0 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 179,
+					"friction" : 1,
+					"name" : "land_fixture"
+				},
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 12.12223434448242, 12.12223434448242 ],
+							"y" : [ -0.2440552711486816, 15.62066078186035 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 8,
+					"filter-maskBits" : 145,
+					"friction" : 1,
+					"name" : "leftwall"
+				},
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 12.08263492584229, 15.28900814056397 ],
+							"y" : [ 15.61788845062256, 17.92579650878906 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 8,
+					"filter-maskBits" : 145,
+					"friction" : 1,
+					"name" : "leftwall"
+				},
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 7.105657577514648, 15.30898666381836 ],
+							"y" : [ 20.08833312988281, 20.08833312988281 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 179,
+					"friction" : 0.2,
+					"name" : "fixture2"
+				},
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 36.43782043457031, 36.43782043457031 ],
+							"y" : [ 7.719299316406250, 23.58401489257813 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 8,
+					"filter-maskBits" : 145,
+					"friction" : 1,
+					"name" : "leftwall"
+				},
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 1.090852022171021, 4.297224998474121 ],
+							"y" : [ 22.88665008544922, 25.19455909729004 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 8,
+					"filter-maskBits" : 145,
+					"friction" : 1,
+					"name" : "leftwall"
+				},
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 2,
+					"filter-maskBits" : 179,
+					"friction" : 0.2,
+					"name" : "fixture1",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								31.25131797790527,
+								31.25131797790527,
+								26.24104499816895,
+								26.24104499816895
+							],
+							"y" : 
+							[
+								2.569227457046509,
+								9.149411201477051,
+								9.149411201477051,
+								2.569227457046509
+							]
+						}
+					}
+				},
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 7.090471267700195, 7.090471267700195 ],
+							"y" : [ 0.04737019538879395, 20.07185363769531 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 8,
+					"filter-maskBits" : 145,
+					"friction" : 1,
+					"name" : "leftwall"
+				},
+				
+				{
+					"chain" : 
+					{
+						"vertices" : 
+						{
+							"x" : [ 15.29827499389648, 15.29827499389648 ],
+							"y" : [ 17.84736824035645, 20.07686805725098 ]
+						}
+					},
+					"density" : 1,
+					"filter-categoryBits" : 8,
+					"filter-maskBits" : 145,
+					"friction" : 1,
+					"name" : "leftwall"
+				},
+				
+				{
+					"density" : 1,
+					"filter-categoryBits" : 8,
+					"filter-maskBits" : 179,
+					"friction" : 0.2,
+					"name" : "fixture1",
+					"polygon" : 
+					{
+						"vertices" : 
+						{
+							"x" : 
+							[
+								1.150823593139648,
+								1.150823593139648,
+								-4.568222999572754,
+								-4.568222999572754
+							],
+							"y" : 
+							[
+								2.849423408508301,
+								22.81793785095215,
+								22.81793785095215,
+								2.849423408508301
+							]
+						}
+					}
+				}
+			],
+			"linearVelocity" : 0,
+			"name" : "landBody",
+			"position" : 
+			{
+				"x" : -5.626626014709473,
+				"y" : -0.9048668146133423
+			},
+			"type" : 0
+		}
+	],
+	"collisionbitplanes" : 
+	{
+		"names" : 
+		[
+			"bitplane1",
+			"bitplane2",
+			"bitplane3",
+			"bitplane4",
+			"bitplane5",
+			"bitplane6",
+			"bitplane7",
+			"bitplane8",
+			"bitplane9",
+			"bitplane10",
+			"bitplane11",
+			"bitplane12",
+			"bitplane13",
+			"bitplane14",
+			"bitplane15",
+			"bitplane16",
+			"bitplane17",
+			"bitplane18",
+			"bitplane19",
+			"bitplane20",
+			"bitplane21",
+			"bitplane22",
+			"bitplane23",
+			"bitplane24",
+			"bitplane25",
+			"bitplane26",
+			"bitplane27",
+			"bitplane28",
+			"bitplane29",
+			"bitplane30",
+			"bitplane31",
+			"bitplane32"
+		]
+	},
+	"continuousPhysics" : true,
+	"gravity" : 
+	{
+		"x" : 0,
+		"y" : -10
+	},
+	"image" : 
+	[
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 34.21957778930664,
+				"y" : 1.437669396400452
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					31.68602371215820,
+					36.75313186645508,
+					36.75313186645508,
+					31.68602371215820
+				],
+				"y" : 
+				[
+					-0.9429980516433716,
+					-0.9429980516433716,
+					3.818336963653565,
+					3.818336963653565
+				]
+			},
+			"file" : "images/tree1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				31.68602371215820,
+				-0.9429980516433716,
+				36.75313186645508,
+				-0.9429980516433716,
+				36.75313186645508,
+				3.818336963653565,
+				31.68602371215820,
+				3.818336963653565
+			],
+			"name" : "image3",
+			"opacity" : 1,
+			"renderOrder" : -16.0,
+			"scale" : 4.761334896087647
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 5.572311401367188,
+				"y" : 20.22694015502930
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					3.012311458587647,
+					8.132310867309570,
+					8.132310867309570,
+					3.012311458587647
+				],
+				"y" : 
+				[
+					19.22694015502930,
+					19.22694015502930,
+					21.22694015502930,
+					21.22694015502930
+				]
+			},
+			"file" : "images/fence.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				3.012311458587647,
+				19.22694015502930,
+				8.132310867309570,
+				19.22694015502930,
+				8.132310867309570,
+				21.22694015502930,
+				3.012311458587647,
+				21.22694015502930
+			],
+			"name" : "image3",
+			"opacity" : 1,
+			"renderOrder" : -16.0,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 31.17684936523438,
+				"y" : 0.9893102645874023
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					30.74827766418457,
+					31.60542106628418,
+					31.60542106628418,
+					30.74827766418457
+				],
+				"y" : 
+				[
+					-1.010689735412598,
+					-1.010689735412598,
+					2.989310264587402,
+					2.989310264587402
+				]
+			},
+			"file" : "images/end_level.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				30.74827766418457,
+				-1.010689735412598,
+				31.60542106628418,
+				-1.010689735412598,
+				31.60542106628418,
+				2.989310264587402,
+				30.74827766418457,
+				2.989310264587402
+			],
+			"name" : "image14",
+			"opacity" : 1,
+			"renderOrder" : -10,
+			"scale" : 4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 31.17684936523438,
+				"y" : 4.977779388427734
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					30.74827766418457,
+					31.60542106628418,
+					31.60542106628418,
+					30.74827766418457
+				],
+				"y" : 
+				[
+					2.977779388427734,
+					2.977779388427734,
+					6.977779388427734,
+					6.977779388427734
+				]
+			},
+			"file" : "images/end_level.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				30.74827766418457,
+				2.977779388427734,
+				31.60542106628418,
+				2.977779388427734,
+				31.60542106628418,
+				6.977779388427734,
+				30.74827766418457,
+				6.977779388427734
+			],
+			"name" : "image14",
+			"opacity" : 1,
+			"renderOrder" : -10,
+			"scale" : 4
+		},
+		
+		{
+			"angle" : 0.1745329201221466,
+			"aspectScale" : 1,
+			"body" : 21,
+			"center" : 
+			{
+				"x" : -0.1753209233283997,
+				"y" : -1.248360872268677
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.01096909493207932,
+					0.05983462184667587,
+					-0.3396727442741394,
+					-0.4104764759540558
+				],
+				"y" : 
+				[
+					-2.387462615966797,
+					-2.374978065490723,
+					-0.1092590987682343,
+					-0.1217437088489533
+				]
+			},
+			"file" : "images/striker_metal_poll.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.01096909493207932,
+				-2.387462615966797,
+				0.05983462184667587,
+				-2.374978065490723,
+				-0.3396727442741394,
+				-0.1092590987682343,
+				-0.4104764759540558,
+				-0.1217437088489533
+			],
+			"name" : "image1",
+			"opacity" : 1,
+			"renderOrder" : -8,
+			"scale" : 2.300671339035034
+		},
+		
+		{
+			"angle" : 0.1745329201221466,
+			"aspectScale" : 1,
+			"body" : 20,
+			"center" : 
+			{
+				"x" : -0.1753209233283997,
+				"y" : -1.248360872268677
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.01096909493207932,
+					0.05983462184667587,
+					-0.3396727442741394,
+					-0.4104764759540558
+				],
+				"y" : 
+				[
+					-2.387462615966797,
+					-2.374978065490723,
+					-0.1092590987682343,
+					-0.1217437088489533
+				]
+			},
+			"file" : "images/striker_metal_poll.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.01096909493207932,
+				-2.387462615966797,
+				0.05983462184667587,
+				-2.374978065490723,
+				-0.3396727442741394,
+				-0.1092590987682343,
+				-0.4104764759540558,
+				-0.1217437088489533
+			],
+			"name" : "image1",
+			"opacity" : 1,
+			"renderOrder" : -8,
+			"scale" : 2.300671339035034
+		},
+		
+		{
+			"angle" : 0.1745329201221466,
+			"aspectScale" : 1,
+			"body" : 53,
+			"center" : 
+			{
+				"x" : -0.1753209233283997,
+				"y" : -1.248360872268677
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.01096909493207932,
+					0.05983462184667587,
+					-0.3396727442741394,
+					-0.4104764759540558
+				],
+				"y" : 
+				[
+					-2.387462615966797,
+					-2.374978065490723,
+					-0.1092590987682343,
+					-0.1217437088489533
+				]
+			},
+			"file" : "images/striker_metal_poll.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.01096909493207932,
+				-2.387462615966797,
+				0.05983462184667587,
+				-2.374978065490723,
+				-0.3396727442741394,
+				-0.1092590987682343,
+				-0.4104764759540558,
+				-0.1217437088489533
+			],
+			"name" : "image1",
+			"opacity" : 1,
+			"renderOrder" : -8,
+			"scale" : 2.300671339035034
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 49,
+			"center" : 
+			{
+				"x" : 0.003455400466918945,
+				"y" : -0.0005148649215698242
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2224269658327103,
+					0.2293377667665482,
+					0.2293377667665482,
+					-0.2224269658327103
+				],
+				"y" : 
+				[
+					-0.9005148410797119,
+					-0.9005148410797119,
+					0.8994851112365723,
+					0.8994851112365723
+				]
+			},
+			"file" : "images/chainsaw_frame_0.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2224269658327103,
+				-0.9005148410797119,
+				0.2293377667665482,
+				-0.9005148410797119,
+				0.2293377667665482,
+				0.8994851112365723,
+				-0.2224269658327103,
+				0.8994851112365723
+			],
+			"name" : "chainsawSprite0_0",
+			"opacity" : 1,
+			"renderOrder" : -7,
+			"scale" : 1.8
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 29,
+			"center" : 
+			{
+				"x" : 0.003455400466918945,
+				"y" : -0.0005148649215698242
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2224269658327103,
+					0.2293377667665482,
+					0.2293377667665482,
+					-0.2224269658327103
+				],
+				"y" : 
+				[
+					-0.9005148410797119,
+					-0.9005148410797119,
+					0.8994851112365723,
+					0.8994851112365723
+				]
+			},
+			"file" : "images/chainsaw_frame_1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2224269658327103,
+				-0.9005148410797119,
+				0.2293377667665482,
+				-0.9005148410797119,
+				0.2293377667665482,
+				0.8994851112365723,
+				-0.2224269658327103,
+				0.8994851112365723
+			],
+			"name" : "chainsawSprite1_1",
+			"opacity" : 1,
+			"renderOrder" : -7,
+			"scale" : 1.8
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 49,
+			"center" : 
+			{
+				"x" : 0.003455400466918945,
+				"y" : -0.0005148649215698242
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2224269658327103,
+					0.2293377667665482,
+					0.2293377667665482,
+					-0.2224269658327103
+				],
+				"y" : 
+				[
+					-0.9005148410797119,
+					-0.9005148410797119,
+					0.8994851112365723,
+					0.8994851112365723
+				]
+			},
+			"file" : "images/chainsaw_frame_1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2224269658327103,
+				-0.9005148410797119,
+				0.2293377667665482,
+				-0.9005148410797119,
+				0.2293377667665482,
+				0.8994851112365723,
+				-0.2224269658327103,
+				0.8994851112365723
+			],
+			"name" : "chainsawSprite0_1",
+			"opacity" : 1,
+			"renderOrder" : -7,
+			"scale" : 1.8
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 29,
+			"center" : 
+			{
+				"x" : 0.003455400466918945,
+				"y" : -0.0005148649215698242
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2224269658327103,
+					0.2293377667665482,
+					0.2293377667665482,
+					-0.2224269658327103
+				],
+				"y" : 
+				[
+					-0.9005148410797119,
+					-0.9005148410797119,
+					0.8994851112365723,
+					0.8994851112365723
+				]
+			},
+			"file" : "images/chainsaw_frame_0.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2224269658327103,
+				-0.9005148410797119,
+				0.2293377667665482,
+				-0.9005148410797119,
+				0.2293377667665482,
+				0.8994851112365723,
+				-0.2224269658327103,
+				0.8994851112365723
+			],
+			"name" : "chainsawSprite1_0",
+			"opacity" : 1,
+			"renderOrder" : -7,
+			"scale" : 1.8
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 49,
+			"center" : 
+			{
+				"x" : 0.003455400466918945,
+				"y" : -0.0005148649215698242
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2224269658327103,
+					0.2293377667665482,
+					0.2293377667665482,
+					-0.2224269658327103
+				],
+				"y" : 
+				[
+					-0.9005148410797119,
+					-0.9005148410797119,
+					0.8994851112365723,
+					0.8994851112365723
+				]
+			},
+			"file" : "images/chainsaw_blood.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2224269658327103,
+				-0.9005148410797119,
+				0.2293377667665482,
+				-0.9005148410797119,
+				0.2293377667665482,
+				0.8994851112365723,
+				-0.2224269658327103,
+				0.8994851112365723
+			],
+			"name" : "chainsawBlood0",
+			"opacity" : 1,
+			"renderOrder" : -6,
+			"scale" : 1.8
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 29,
+			"center" : 
+			{
+				"x" : 0.003455400466918945,
+				"y" : -0.0005148649215698242
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2224269658327103,
+					0.2293377667665482,
+					0.2293377667665482,
+					-0.2224269658327103
+				],
+				"y" : 
+				[
+					-0.9005148410797119,
+					-0.9005148410797119,
+					0.8994851112365723,
+					0.8994851112365723
+				]
+			},
+			"file" : "images/chainsaw_blood.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2224269658327103,
+				-0.9005148410797119,
+				0.2293377667665482,
+				-0.9005148410797119,
+				0.2293377667665482,
+				0.8994851112365723,
+				-0.2224269658327103,
+				0.8994851112365723
+			],
+			"name" : "chainsawBlood1",
+			"opacity" : 1,
+			"renderOrder" : -6,
+			"scale" : 1.8
+		},
+		
+		{
+			"angle" : 0.6108649969100952,
+			"aspectScale" : 1.5,
+			"body" : 34,
+			"center" : 
+			{
+				"x" : -2.906260251998901,
+				"y" : -2.552977800369263
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-5.576692581176758,
+					-0.2071493119001389,
+					-0.2358281314373016,
+					-5.605370998382568
+				],
+				"y" : 
+				[
+					-4.453352928161621,
+					-0.6935604810714722,
+					-0.6526029109954834,
+					-4.412395000457764
+				]
+			},
+			"file" : "images/dots.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-5.576692581176758,
+				-4.453352928161621,
+				-0.2071493119001389,
+				-0.6935604810714722,
+				-0.2358281314373016,
+				-0.6526029109954834,
+				-5.605370998382568,
+				-4.412395000457764
+			],
+			"name" : "cameraTrack0_0",
+			"opacity" : 1,
+			"renderOrder" : -6,
+			"scale" : 0.05
+		},
+		
+		{
+			"angle" : -0.6108652353286743,
+			"aspectScale" : 1.5,
+			"body" : 34,
+			"center" : 
+			{
+				"x" : 2.938259601593018,
+				"y" : -2.554830074310303
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					0.2391491532325745,
+					5.608691215515137,
+					5.637370109558106,
+					0.2678279578685761
+				],
+				"y" : 
+				[
+					-0.6954119205474854,
+					-4.455205917358398,
+					-4.414247989654541,
+					-0.6544542908668518
+				]
+			},
+			"file" : "images/dots.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				0.2391491532325745,
+				-0.6954119205474854,
+				5.608691215515137,
+				-4.455205917358398,
+				5.637370109558106,
+				-4.414247989654541,
+				0.2678279578685761,
+				-0.6544542908668518
+			],
+			"name" : "cameraTrack0_1",
+			"opacity" : 1,
+			"renderOrder" : -6,
+			"scale" : 0.05
+		},
+		
+		{
+			"angle" : -0.1745329201221466,
+			"aspectScale" : 1,
+			"body" : 34,
+			"center" : 
+			{
+				"x" : -0.06667304039001465,
+				"y" : -0.5894839763641357
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.6582110524177551,
+					0.3512168228626251,
+					0.5248649716377258,
+					-0.4845629036426544
+				],
+				"y" : 
+				[
+					-0.9928931593894959,
+					-1.170882582664490,
+					-0.1860748082399368,
+					-0.008085422217845917
+				]
+			},
+			"file" : "images/camera.png",
+			"filter" : 1,
+			"flip" : true,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 1, 0.0, 0.0, 0.0, 0.0, 1, 1, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.6582110524177551,
+				-0.9928931593894959,
+				0.3512168228626251,
+				-1.170882582664490,
+				0.5248649716377258,
+				-0.1860748082399368,
+				-0.4845629036426544,
+				-0.008085422217845917
+			],
+			"name" : "cameraSprite0_1",
+			"opacity" : 1,
+			"renderOrder" : -5,
+			"scale" : 1
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 0.08,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -3.909406661987305,
+				"y" : 16.95708084106445
+			},
+			"colorTint" : [ 170, 170, 255, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					-1.409406661987305,
+					-1.409406661987305,
+					-6.409406661987305,
+					-6.409406661987305
+				],
+				"y" : 
+				[
+					16.7570800781250,
+					17.15708160400391,
+					17.15708160400391,
+					16.7570800781250
+				]
+			},
+			"file" : "images/poll.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-1.409406661987305,
+				16.7570800781250,
+				-1.409406661987305,
+				17.15708160400391,
+				-6.409406661987305,
+				17.15708160400391,
+				-6.409406661987305,
+				16.7570800781250
+			],
+			"name" : "image1",
+			"opacity" : 1,
+			"renderOrder" : -5,
+			"scale" : 5
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 0.08,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 26.04251098632813,
+				"y" : 2.606438636779785
+			},
+			"colorTint" : [ 170, 170, 255, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					28.54251098632813,
+					28.54251098632813,
+					23.54251098632813,
+					23.54251098632813
+				],
+				"y" : 
+				[
+					2.406438827514648,
+					2.806438684463501,
+					2.806438446044922,
+					2.406438589096069
+				]
+			},
+			"file" : "images/poll.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				28.54251098632813,
+				2.406438827514648,
+				28.54251098632813,
+				2.806438684463501,
+				23.54251098632813,
+				2.806438446044922,
+				23.54251098632813,
+				2.406438589096069
+			],
+			"name" : "image1",
+			"opacity" : 1,
+			"renderOrder" : -5,
+			"scale" : 5
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 0.08,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -0.2296404093503952,
+				"y" : 2.982885837554932
+			},
+			"colorTint" : [ 170, 170, 255, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					2.270359516143799,
+					2.270359516143799,
+					-2.729640483856201,
+					-2.729640483856201
+				],
+				"y" : 
+				[
+					2.782886028289795,
+					3.182885885238648,
+					3.182885646820068,
+					2.782885789871216
+				]
+			},
+			"file" : "images/poll.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				2.270359516143799,
+				2.782886028289795,
+				2.270359516143799,
+				3.182885885238648,
+				-2.729640483856201,
+				3.182885646820068,
+				-2.729640483856201,
+				2.782885789871216
+			],
+			"name" : "image1",
+			"opacity" : 1,
+			"renderOrder" : -5,
+			"scale" : 5
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 0.08,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -4.125425338745117,
+				"y" : 7.921533584594727
+			},
+			"colorTint" : [ 170, 170, 255, 255 ],
+			"corners" : 
+			{
+				"x" : 
+				[
+					-1.625425338745117,
+					-1.625425338745117,
+					-6.625425338745117,
+					-6.625425338745117
+				],
+				"y" : 
+				[
+					7.721533775329590,
+					8.121533393859863,
+					8.121533393859863,
+					7.721533298492432
+				]
+			},
+			"file" : "images/poll.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-1.625425338745117,
+				7.721533775329590,
+				-1.625425338745117,
+				8.121533393859863,
+				-6.625425338745117,
+				8.121533393859863,
+				-6.625425338745117,
+				7.721533298492432
+			],
+			"name" : "image1",
+			"opacity" : 1,
+			"renderOrder" : -5,
+			"scale" : 5
+		},
+		
+		{
+			"angle" : 0.1745329201221466,
+			"aspectScale" : 1,
+			"body" : 34,
+			"center" : 
+			{
+				"x" : 0.1040959358215332,
+				"y" : -0.5668790340423584
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.3137939274311066,
+					0.6956339478492737,
+					0.5219857692718506,
+					-0.4874421060085297
+				],
+				"y" : 
+				[
+					-1.148277640342712,
+					-0.9702882170677185,
+					0.01451952010393143,
+					-0.1634698659181595
+				]
+			},
+			"file" : "images/camera.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.3137939274311066,
+				-1.148277640342712,
+				0.6956339478492737,
+				-0.9702882170677185,
+				0.5219857692718506,
+				0.01451952010393143,
+				-0.4874421060085297,
+				-0.1634698659181595
+			],
+			"name" : "cameraSprite0_0",
+			"opacity" : 1,
+			"renderOrder" : -5,
+			"scale" : 1
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 20.33935737609863,
+				"y" : 2.229678630828857
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					20.58935737609863,
+					20.58935737609863,
+					20.08935737609863,
+					20.08935737609863
+				],
+				"y" : 
+				[
+					1.649678707122803,
+					2.809678554534912,
+					2.809678554534912,
+					1.649678587913513
+				]
+			},
+			"file" : "images/bush_2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				20.58935737609863,
+				1.649678707122803,
+				20.58935737609863,
+				2.809678554534912,
+				20.08935737609863,
+				2.809678554534912,
+				20.08935737609863,
+				1.649678587913513
+			],
+			"name" : "decoration_1",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 0.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 38,
+			"center" : 
+			{
+				"x" : -3.781839552630117e-007,
+				"y" : 1.486858369759148e-008
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8377323746681213,
+					0.8377316594123840,
+					0.8377316594123840,
+					-0.8377323746681213
+				],
+				"y" : 
+				[
+					-0.8377320170402527,
+					-0.8377320170402527,
+					0.8377320170402527,
+					0.8377320170402527
+				]
+			},
+			"file" : "images/level_saw.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8377323746681213,
+				-0.8377320170402527,
+				0.8377316594123840,
+				-0.8377320170402527,
+				0.8377316594123840,
+				0.8377320170402527,
+				-0.8377323746681213,
+				0.8377320170402527
+			],
+			"name" : "staticsawSprite0",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 23,
+			"center" : 
+			{
+				"x" : -3.781839552630117e-007,
+				"y" : 1.486858369759148e-008
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8377323746681213,
+					0.8377316594123840,
+					0.8377316594123840,
+					-0.8377323746681213
+				],
+				"y" : 
+				[
+					-0.8377320170402527,
+					-0.8377320170402527,
+					0.8377320170402527,
+					0.8377320170402527
+				]
+			},
+			"file" : "images/level_saw.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8377323746681213,
+				-0.8377320170402527,
+				0.8377316594123840,
+				-0.8377320170402527,
+				0.8377316594123840,
+				0.8377320170402527,
+				-0.8377323746681213,
+				0.8377320170402527
+			],
+			"name" : "staticsawSprite3",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 58,
+			"center" : 
+			{
+				"x" : -3.781839552630117e-007,
+				"y" : 1.486858369759148e-008
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8377323746681213,
+					0.8377316594123840,
+					0.8377316594123840,
+					-0.8377323746681213
+				],
+				"y" : 
+				[
+					-0.8377320170402527,
+					-0.8377320170402527,
+					0.8377320170402527,
+					0.8377320170402527
+				]
+			},
+			"file" : "images/level_saw.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8377323746681213,
+				-0.8377320170402527,
+				0.8377316594123840,
+				-0.8377320170402527,
+				0.8377316594123840,
+				0.8377320170402527,
+				-0.8377323746681213,
+				0.8377320170402527
+			],
+			"name" : "staticsawSprite7",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 57,
+			"center" : 
+			{
+				"x" : -3.781839552630117e-007,
+				"y" : 1.486858369759148e-008
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8377323746681213,
+					0.8377316594123840,
+					0.8377316594123840,
+					-0.8377323746681213
+				],
+				"y" : 
+				[
+					-0.8377320170402527,
+					-0.8377320170402527,
+					0.8377320170402527,
+					0.8377320170402527
+				]
+			},
+			"file" : "images/level_saw.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8377323746681213,
+				-0.8377320170402527,
+				0.8377316594123840,
+				-0.8377320170402527,
+				0.8377316594123840,
+				0.8377320170402527,
+				-0.8377323746681213,
+				0.8377320170402527
+			],
+			"name" : "staticsawSprite4",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 55,
+			"center" : 
+			{
+				"x" : -3.781839552630117e-007,
+				"y" : 1.486858369759148e-008
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8377323746681213,
+					0.8377316594123840,
+					0.8377316594123840,
+					-0.8377323746681213
+				],
+				"y" : 
+				[
+					-0.8377320170402527,
+					-0.8377320170402527,
+					0.8377320170402527,
+					0.8377320170402527
+				]
+			},
+			"file" : "images/level_saw.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8377323746681213,
+				-0.8377320170402527,
+				0.8377316594123840,
+				-0.8377320170402527,
+				0.8377316594123840,
+				0.8377320170402527,
+				-0.8377323746681213,
+				0.8377320170402527
+			],
+			"name" : "staticsawSprite6",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"angle" : -2.530727386474609,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -3.637449502944946,
+				"y" : 22.24112510681152
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-3.305735349655151,
+					-4.255951881408691,
+					-3.969163656234741,
+					-3.018947124481201
+				],
+				"y" : 
+				[
+					22.77858734130859,
+					22.11323928833008,
+					21.70366287231445,
+					22.36901092529297
+				]
+			},
+			"file" : "images/bush_2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-3.305735349655151,
+				22.77858734130859,
+				-4.255951881408691,
+				22.11323928833008,
+				-3.969163656234741,
+				21.70366287231445,
+				-3.018947124481201,
+				22.36901092529297
+			],
+			"name" : "decoration_1",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 0.5
+		},
+		
+		{
+			"angle" : 0.08726646006107330,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 22.49188613891602,
+				"y" : 13.10514736175537
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					22.08286857604981,
+					23.07521629333496,
+					22.90090370178223,
+					21.90855598449707
+				],
+				"y" : 
+				[
+					12.06554317474365,
+					12.15236186981201,
+					14.14475154876709,
+					14.05793285369873
+				]
+			},
+			"file" : "images/sign.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				22.08286857604981,
+				12.06554317474365,
+				23.07521629333496,
+				12.15236186981201,
+				22.90090370178223,
+				14.14475154876709,
+				21.90855598449707,
+				14.05793285369873
+			],
+			"name" : "decoration_2",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 63,
+			"center" : 
+			{
+				"x" : -3.781839552630117e-007,
+				"y" : 1.486858369759148e-008
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8377323746681213,
+					0.8377316594123840,
+					0.8377316594123840,
+					-0.8377323746681213
+				],
+				"y" : 
+				[
+					-0.8377320170402527,
+					-0.8377320170402527,
+					0.8377320170402527,
+					0.8377320170402527
+				]
+			},
+			"file" : "images/level_saw.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8377323746681213,
+				-0.8377320170402527,
+				0.8377316594123840,
+				-0.8377320170402527,
+				0.8377316594123840,
+				0.8377320170402527,
+				-0.8377323746681213,
+				0.8377320170402527
+			],
+			"name" : "staticsawSprite5",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 25,
+			"center" : 
+			{
+				"x" : -3.781839552630117e-007,
+				"y" : 1.486858369759148e-008
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8377323746681213,
+					0.8377316594123840,
+					0.8377316594123840,
+					-0.8377323746681213
+				],
+				"y" : 
+				[
+					-0.8377320170402527,
+					-0.8377320170402527,
+					0.8377320170402527,
+					0.8377320170402527
+				]
+			},
+			"file" : "images/level_saw.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8377323746681213,
+				-0.8377320170402527,
+				0.8377316594123840,
+				-0.8377320170402527,
+				0.8377316594123840,
+				0.8377320170402527,
+				-0.8377323746681213,
+				0.8377320170402527
+			],
+			"name" : "staticsawSprite2",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"angle" : 0.08726646006107330,
+			"aspectScale" : 1,
+			"body" : 65,
+			"center" : 
+			{
+				"x" : -60.18483352661133,
+				"y" : -0.008413996547460556
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-60.59385299682617,
+					-59.60150527954102,
+					-59.77581405639648,
+					-60.76816177368164
+				],
+				"y" : 
+				[
+					-1.048018336296082,
+					-0.9611991047859192,
+					1.031190395355225,
+					0.9443711042404175
+				]
+			},
+			"file" : "images/sign.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-60.59385299682617,
+				-1.048018336296082,
+				-59.60150527954102,
+				-0.9611991047859192,
+				-59.77581405639648,
+				1.031190395355225,
+				-60.76816177368164,
+				0.9443711042404175
+			],
+			"name" : "decoration_2",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 52,
+			"center" : 
+			{
+				"x" : -3.781839552630117e-007,
+				"y" : 1.486858369759148e-008
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8377323746681213,
+					0.8377316594123840,
+					0.8377316594123840,
+					-0.8377323746681213
+				],
+				"y" : 
+				[
+					-0.8377320170402527,
+					-0.8377320170402527,
+					0.8377320170402527,
+					0.8377320170402527
+				]
+			},
+			"file" : "images/level_saw.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8377323746681213,
+				-0.8377320170402527,
+				0.8377316594123840,
+				-0.8377320170402527,
+				0.8377316594123840,
+				0.8377320170402527,
+				-0.8377323746681213,
+				0.8377320170402527
+			],
+			"name" : "staticsawSprite1",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"angle" : -0.2268927991390228,
+			"aspectScale" : 1,
+			"body" : 34,
+			"center" : 
+			{
+				"x" : 0.5458056926727295,
+				"y" : -1.145956277847290
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					0.2369235903024674,
+					0.7647073864936829,
+					0.8546878099441528,
+					0.3269039988517761
+				],
+				"y" : 
+				[
+					-1.279906034469605,
+					-1.401754498481751,
+					-1.012006521224976,
+					-0.8901579976081848
+				]
+			},
+			"file" : "images/gunfire.png",
+			"filter" : 1,
+			"flip" : true,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 1, 0.0, 0.0, 0.0, 0.0, 1, 1, 1 ],
+			"glVertexPointer" : 
+			[
+				0.2369235903024674,
+				-1.279906034469605,
+				0.7647073864936829,
+				-1.401754498481751,
+				0.8546878099441528,
+				-1.012006521224976,
+				0.3269039988517761,
+				-0.8901579976081848
+			],
+			"name" : "cameraFire0_1",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 0.4
+		},
+		
+		{
+			"angle" : 0.2268927991390228,
+			"aspectScale" : 1,
+			"body" : 34,
+			"center" : 
+			{
+				"x" : -0.5146486759185791,
+				"y" : -1.118072509765625
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.7335503697395325,
+					-0.2057665735483170,
+					-0.2957469820976257,
+					-0.8235307931900024
+				],
+				"y" : 
+				[
+					-1.373870730400085,
+					-1.252022266387940,
+					-0.8622742295265198,
+					-0.9841227531433106
+				]
+			},
+			"file" : "images/gunfire.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.7335503697395325,
+				-1.373870730400085,
+				-0.2057665735483170,
+				-1.252022266387940,
+				-0.2957469820976257,
+				-0.8622742295265198,
+				-0.8235307931900024,
+				-0.9841227531433106
+			],
+			"name" : "cameraFire0_0",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 0.4
+		},
+		
+		{
+			"angle" : 3.141592741012573,
+			"aspectScale" : 1,
+			"body" : 60,
+			"center" : 
+			{
+				"x" : 0.009714603424072266,
+				"y" : -3.693887710571289
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					1.141797661781311,
+					-1.122369050979614,
+					-1.122368454933167,
+					1.141798257827759
+				],
+				"y" : 
+				[
+					-0.4438876211643219,
+					-0.4438877999782562,
+					-6.943887710571289,
+					-6.943887710571289
+				]
+			},
+			"file" : "images/elevator.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				1.141797661781311,
+				-0.4438876211643219,
+				-1.122369050979614,
+				-0.4438877999782562,
+				-1.122368454933167,
+				-6.943887710571289,
+				1.141798257827759,
+				-6.943887710571289
+			],
+			"name" : "elevatorSprite0",
+			"opacity" : 1,
+			"renderOrder" : -2,
+			"scale" : 6.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 55,
+			"center" : 
+			{
+				"x" : -0.0005244720960035920,
+				"y" : 0.001378906890749931
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8382564783096314,
+					0.8372075557708740,
+					0.8372075557708740,
+					-0.8382564783096314
+				],
+				"y" : 
+				[
+					-0.8363531231880188,
+					-0.8363531231880188,
+					0.8391109108924866,
+					0.8391109108924866
+				]
+			},
+			"file" : "images/level_saw_blood.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8382564783096314,
+				-0.8363531231880188,
+				0.8372075557708740,
+				-0.8363531231880188,
+				0.8372075557708740,
+				0.8391109108924866,
+				-0.8382564783096314,
+				0.8391109108924866
+			],
+			"name" : "staticsawBlood6",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 23,
+			"center" : 
+			{
+				"x" : -0.0005244720960035920,
+				"y" : 0.001378906890749931
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8382564783096314,
+					0.8372075557708740,
+					0.8372075557708740,
+					-0.8382564783096314
+				],
+				"y" : 
+				[
+					-0.8363531231880188,
+					-0.8363531231880188,
+					0.8391109108924866,
+					0.8391109108924866
+				]
+			},
+			"file" : "images/level_saw_blood.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8382564783096314,
+				-0.8363531231880188,
+				0.8372075557708740,
+				-0.8363531231880188,
+				0.8372075557708740,
+				0.8391109108924866,
+				-0.8382564783096314,
+				0.8391109108924866
+			],
+			"name" : "staticsawBlood3",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 60,
+			"center" : 
+			{
+				"x" : -0.01856923103332520,
+				"y" : -0.2136752605438232
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-2.865343332290649,
+					2.828204870223999,
+					2.828204870223999,
+					-2.865343332290649
+				],
+				"y" : 
+				[
+					-0.4636752605438232,
+					-0.4636752605438232,
+					0.03632473945617676,
+					0.03632473945617676
+				]
+			},
+			"file" : "images/metal_grid.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-2.865343332290649,
+				-0.4636752605438232,
+				2.828204870223999,
+				-0.4636752605438232,
+				2.828204870223999,
+				0.03632473945617676,
+				-2.865343332290649,
+				0.03632473945617676
+			],
+			"name" : "image0",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 0.5
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -4.006600379943848,
+				"y" : 12.43880748748779
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-4.506600379943848,
+					-4.506600379943848,
+					-3.506600379943848,
+					-3.506600379943848
+				],
+				"y" : 
+				[
+					14.15964126586914,
+					10.71797466278076,
+					10.71797370910645,
+					14.15964031219482
+				]
+			},
+			"file" : "images/bush_0.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-4.506600379943848,
+				14.15964126586914,
+				-4.506600379943848,
+				10.71797466278076,
+				-3.506600379943848,
+				10.71797370910645,
+				-3.506600379943848,
+				14.15964031219482
+			],
+			"name" : "decoration_0",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 1
+		},
+		
+		{
+			"angle" : -3.141592741012573,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -7.214601516723633,
+				"y" : 1.429508566856384
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-5.493768215179443,
+					-8.935434341430664,
+					-8.935435295104981,
+					-5.493768215179443
+				],
+				"y" : 
+				[
+					1.929508447647095,
+					1.929508686065674,
+					0.9295087456703186,
+					0.929508388042450
+				]
+			},
+			"file" : "images/bush_0.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-5.493768215179443,
+				1.929508447647095,
+				-8.935434341430664,
+				1.929508686065674,
+				-8.935435295104981,
+				0.9295087456703186,
+				-5.493768215179443,
+				0.929508388042450
+			],
+			"name" : "decoration_0",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 1
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 65,
+			"center" : 
+			{
+				"x" : -0.01183319091796875,
+				"y" : 0.4445133805274963
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.06183319166302681,
+					0.03816680982708931,
+					0.03816680982708931,
+					-0.06183319166302681
+				],
+				"y" : 
+				[
+					0.3945133686065674,
+					0.3945133686065674,
+					0.4945133924484253,
+					0.4945133924484253
+				]
+			},
+			"file" : "images/empty.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.06183319166302681,
+				0.3945133686065674,
+				0.03816680982708931,
+				0.3945133686065674,
+				0.03816680982708931,
+				0.4945133924484253,
+				-0.06183319166302681,
+				0.4945133924484253
+			],
+			"name" : "exitSprite0",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 0.1
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 57,
+			"center" : 
+			{
+				"x" : -0.0005244720960035920,
+				"y" : 0.001378906890749931
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8382564783096314,
+					0.8372075557708740,
+					0.8372075557708740,
+					-0.8382564783096314
+				],
+				"y" : 
+				[
+					-0.8363531231880188,
+					-0.8363531231880188,
+					0.8391109108924866,
+					0.8391109108924866
+				]
+			},
+			"file" : "images/level_saw_blood.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8382564783096314,
+				-0.8363531231880188,
+				0.8372075557708740,
+				-0.8363531231880188,
+				0.8372075557708740,
+				0.8391109108924866,
+				-0.8382564783096314,
+				0.8391109108924866
+			],
+			"name" : "staticsawBlood4",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 6.885578155517578,
+				"y" : 4.225573539733887
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					6.385578155517578,
+					6.385578155517578,
+					7.385578155517578,
+					7.385578155517578
+				],
+				"y" : 
+				[
+					5.946406841278076,
+					2.504740238189697,
+					2.504740238189697,
+					5.946406841278076
+				]
+			},
+			"file" : "images/bush_0.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				6.385578155517578,
+				5.946406841278076,
+				6.385578155517578,
+				2.504740238189697,
+				7.385578155517578,
+				2.504740238189697,
+				7.385578155517578,
+				5.946406841278076
+			],
+			"name" : "decoration_0",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 1
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 25,
+			"center" : 
+			{
+				"x" : -0.0005244720960035920,
+				"y" : 0.001378906890749931
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8382564783096314,
+					0.8372075557708740,
+					0.8372075557708740,
+					-0.8382564783096314
+				],
+				"y" : 
+				[
+					-0.8363531231880188,
+					-0.8363531231880188,
+					0.8391109108924866,
+					0.8391109108924866
+				]
+			},
+			"file" : "images/level_saw_blood.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8382564783096314,
+				-0.8363531231880188,
+				0.8372075557708740,
+				-0.8363531231880188,
+				0.8372075557708740,
+				0.8391109108924866,
+				-0.8382564783096314,
+				0.8391109108924866
+			],
+			"name" : "staticsawBlood2",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 58,
+			"center" : 
+			{
+				"x" : -0.0005244720960035920,
+				"y" : 0.001378906890749931
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8382564783096314,
+					0.8372075557708740,
+					0.8372075557708740,
+					-0.8382564783096314
+				],
+				"y" : 
+				[
+					-0.8363531231880188,
+					-0.8363531231880188,
+					0.8391109108924866,
+					0.8391109108924866
+				]
+			},
+			"file" : "images/level_saw_blood.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8382564783096314,
+				-0.8363531231880188,
+				0.8372075557708740,
+				-0.8363531231880188,
+				0.8372075557708740,
+				0.8391109108924866,
+				-0.8382564783096314,
+				0.8391109108924866
+			],
+			"name" : "staticsawBlood7",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 63,
+			"center" : 
+			{
+				"x" : -0.0005244720960035920,
+				"y" : 0.001378906890749931
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8382564783096314,
+					0.8372075557708740,
+					0.8372075557708740,
+					-0.8382564783096314
+				],
+				"y" : 
+				[
+					-0.8363531231880188,
+					-0.8363531231880188,
+					0.8391109108924866,
+					0.8391109108924866
+				]
+			},
+			"file" : "images/level_saw_blood.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8382564783096314,
+				-0.8363531231880188,
+				0.8372075557708740,
+				-0.8363531231880188,
+				0.8372075557708740,
+				0.8391109108924866,
+				-0.8382564783096314,
+				0.8391109108924866
+			],
+			"name" : "staticsawBlood5",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 38,
+			"center" : 
+			{
+				"x" : -0.0005244720960035920,
+				"y" : 0.001378906890749931
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8382564783096314,
+					0.8372075557708740,
+					0.8372075557708740,
+					-0.8382564783096314
+				],
+				"y" : 
+				[
+					-0.8363531231880188,
+					-0.8363531231880188,
+					0.8391109108924866,
+					0.8391109108924866
+				]
+			},
+			"file" : "images/level_saw_blood.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8382564783096314,
+				-0.8363531231880188,
+				0.8372075557708740,
+				-0.8363531231880188,
+				0.8372075557708740,
+				0.8391109108924866,
+				-0.8382564783096314,
+				0.8391109108924866
+			],
+			"name" : "staticsawBlood0",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 52,
+			"center" : 
+			{
+				"x" : -0.0005244720960035920,
+				"y" : 0.001378906890749931
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.8382564783096314,
+					0.8372075557708740,
+					0.8372075557708740,
+					-0.8382564783096314
+				],
+				"y" : 
+				[
+					-0.8363531231880188,
+					-0.8363531231880188,
+					0.8391109108924866,
+					0.8391109108924866
+				]
+			},
+			"file" : "images/level_saw_blood.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.8382564783096314,
+				-0.8363531231880188,
+				0.8372075557708740,
+				-0.8363531231880188,
+				0.8372075557708740,
+				0.8391109108924866,
+				-0.8382564783096314,
+				0.8391109108924866
+			],
+			"name" : "staticsawBlood1",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 1.675464034080505
+		},
+		
+		{
+			"angle" : -1.570796370506287,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 26.08332824707031,
+				"y" : 5.803470611572266
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					25.58332824707031,
+					25.58332824707031,
+					26.58332824707031,
+					26.58332824707031
+				],
+				"y" : 
+				[
+					7.524303913116455,
+					4.082637310028076,
+					4.082637310028076,
+					7.524303913116455
+				]
+			},
+			"file" : "images/bush_0.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				25.58332824707031,
+				7.524303913116455,
+				25.58332824707031,
+				4.082637310028076,
+				26.58332824707031,
+				4.082637310028076,
+				26.58332824707031,
+				7.524303913116455
+			],
+			"name" : "decoration_0",
+			"opacity" : 1,
+			"renderOrder" : -1,
+			"scale" : 1
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 19,
+			"center" : 
+			{
+				"x" : 0.1668648719787598,
+				"y" : 0
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.4016268849372864,
+					0.7353566288948059,
+					0.7353566288948059,
+					-0.4016268849372864
+				],
+				"y" : 
+				[
+					-0.4466721117496491,
+					-0.4466721117496491,
+					0.4466721117496491,
+					0.4466721117496491
+				]
+			},
+			"file" : "images/parapack.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.4016268849372864,
+				-0.4466721117496491,
+				0.7353566288948059,
+				-0.4466721117496491,
+				0.7353566288948059,
+				0.4466721117496491,
+				-0.4016268849372864,
+				0.4466721117496491
+			],
+			"name" : "backpackSprite0",
+			"opacity" : 1,
+			"scale" : 0.8933442234992981
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 20,
+			"center" : 
+			{
+				"x" : -0.005151873454451561,
+				"y" : -0.02676238119602203
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9091518521308899,
+					0.8988481163978577,
+					0.8988481163978577,
+					-0.9091518521308899
+				],
+				"y" : 
+				[
+					-0.2667623758316040,
+					-0.2667623758316040,
+					0.2132376134395599,
+					0.2132376134395599
+				]
+			},
+			"file" : "images/bazooka.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9091518521308899,
+				-0.2667623758316040,
+				0.8988481163978577,
+				-0.2667623758316040,
+				0.8988481163978577,
+				0.2132376134395599,
+				-0.9091518521308899,
+				0.2132376134395599
+			],
+			"name" : "bazookaSprite0",
+			"opacity" : 1,
+			"scale" : 0.48
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 9,
+			"center" : 0,
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2044444531202316,
+					0.2044444531202316,
+					0.2044444531202316,
+					-0.2044444531202316
+				],
+				"y" : [ -0.2, -0.2, 0.2, 0.2 ]
+			},
+			"file" : "images/levels_star.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2044444531202316,
+				-0.2,
+				0.2044444531202316,
+				-0.2,
+				0.2044444531202316,
+				0.2,
+				-0.2044444531202316,
+				0.2
+			],
+			"name" : "starSprite2",
+			"opacity" : 1,
+			"scale" : 0.4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -2.490237236022949,
+				"y" : 2.978469848632813
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-2.690237283706665,
+					-2.290237188339233,
+					-2.290237188339233,
+					-2.690237283706665
+				],
+				"y" : 
+				[
+					2.778469800949097,
+					2.778469800949097,
+					3.178469896316528,
+					3.178469896316528
+				]
+			},
+			"file" : "images/metal_grid_bolt.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-2.690237283706665,
+				2.778469800949097,
+				-2.290237188339233,
+				2.778469800949097,
+				-2.290237188339233,
+				3.178469896316528,
+				-2.690237283706665,
+				3.178469896316528
+			],
+			"name" : "image3",
+			"opacity" : 1,
+			"scale" : 0.4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -3.473492860794067,
+				"y" : 16.97501373291016
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-3.673492908477783,
+					-3.273492813110352,
+					-3.273492813110352,
+					-3.673492908477783
+				],
+				"y" : 
+				[
+					16.77501296997070,
+					16.77501296997070,
+					17.17501449584961,
+					17.17501449584961
+				]
+			},
+			"file" : "images/metal_grid_bolt.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-3.673492908477783,
+				16.77501296997070,
+				-3.273492813110352,
+				16.77501296997070,
+				-3.273492813110352,
+				17.17501449584961,
+				-3.673492908477783,
+				17.17501449584961
+			],
+			"name" : "image3",
+			"opacity" : 1,
+			"scale" : 0.4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 31,
+			"center" : 
+			{
+				"x" : 0.01736068725585938,
+				"y" : 0.01217269897460938
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-2.829413414001465,
+					2.864134788513184,
+					2.864134788513184,
+					-2.829413414001465
+				],
+				"y" : 
+				[
+					-0.2378273010253906,
+					-0.2378273010253906,
+					0.2621726989746094,
+					0.2621726989746094
+				]
+			},
+			"file" : "images/metal_grid.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-2.829413414001465,
+				-0.2378273010253906,
+				2.864134788513184,
+				-0.2378273010253906,
+				2.864134788513184,
+				0.2621726989746094,
+				-2.829413414001465,
+				0.2621726989746094
+			],
+			"name" : "image4",
+			"opacity" : 1,
+			"scale" : 0.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 26,
+			"center" : 
+			{
+				"x" : 0.01736068725585938,
+				"y" : 0.01217269897460938
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-2.829413414001465,
+					2.864134788513184,
+					2.864134788513184,
+					-2.829413414001465
+				],
+				"y" : 
+				[
+					-0.2378273010253906,
+					-0.2378273010253906,
+					0.2621726989746094,
+					0.2621726989746094
+				]
+			},
+			"file" : "images/metal_grid.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-2.829413414001465,
+				-0.2378273010253906,
+				2.864134788513184,
+				-0.2378273010253906,
+				2.864134788513184,
+				0.2621726989746094,
+				-2.829413414001465,
+				0.2621726989746094
+			],
+			"name" : "image4",
+			"opacity" : 1,
+			"scale" : 0.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 48,
+			"center" : 
+			{
+				"x" : 0.001173734664916992,
+				"y" : 0.007385015487670898
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.04257626459002495,
+					0.04492373391985893,
+					0.04492373391985893,
+					-0.04257626459002495
+				],
+				"y" : 
+				[
+					-0.04261498525738716,
+					-0.04261498525738716,
+					0.05738501623272896,
+					0.05738501623272896
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.04257626459002495,
+				-0.04261498525738716,
+				0.04492373391985893,
+				-0.04261498525738716,
+				0.04492373391985893,
+				0.05738501623272896,
+				-0.04257626459002495,
+				0.05738501623272896
+			],
+			"name" : "prismaticSprite0",
+			"opacity" : 0,
+			"scale" : 0.1
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 34,
+			"center" : 
+			{
+				"x" : -0.1028823852539063,
+				"y" : -0.5289020538330078
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.1306601613759995,
+					-0.07510460913181305,
+					-0.07510460913181305,
+					-0.1306601613759995
+				],
+				"y" : 
+				[
+					-0.5539020299911499,
+					-0.5539020299911499,
+					-0.5039020776748657,
+					-0.5039020776748657
+				]
+			},
+			"file" : "images/camera_dot.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.1306601613759995,
+				-0.5539020299911499,
+				-0.07510460913181305,
+				-0.5539020299911499,
+				-0.07510460913181305,
+				-0.5039020776748657,
+				-0.1306601613759995,
+				-0.5039020776748657
+			],
+			"name" : "cameraEye0_0",
+			"opacity" : 1,
+			"scale" : 0.05
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 26.67602348327637,
+				"y" : 2.631818294525147
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					26.47602272033691,
+					26.87602424621582,
+					26.87602424621582,
+					26.47602272033691
+				],
+				"y" : 
+				[
+					2.431818246841431,
+					2.431818246841431,
+					2.831818342208862,
+					2.831818342208862
+				]
+			},
+			"file" : "images/metal_grid_bolt.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				26.47602272033691,
+				2.431818246841431,
+				26.87602424621582,
+				2.431818246841431,
+				26.87602424621582,
+				2.831818342208862,
+				26.47602272033691,
+				2.831818342208862
+			],
+			"name" : "image3",
+			"opacity" : 1,
+			"scale" : 0.4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 41.97383117675781,
+				"y" : -1.617220044136047
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					38.75595474243164,
+					45.19170761108398,
+					45.19170761108398,
+					38.75595474243164
+				],
+				"y" : 
+				[
+					-2.367219924926758,
+					-2.367219924926758,
+					-0.8672200441360474,
+					-0.8672200441360474
+				]
+			},
+			"file" : "images/level2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				38.75595474243164,
+				-2.367219924926758,
+				45.19170761108398,
+				-2.367219924926758,
+				45.19170761108398,
+				-0.8672200441360474,
+				38.75595474243164,
+				-0.8672200441360474
+			],
+			"name" : "dirt_image_1",
+			"opacity" : 1,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 22.75968170166016,
+				"y" : -1.617224216461182
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					19.54180526733398,
+					25.97755813598633,
+					25.97755813598633,
+					19.54180526733398
+				],
+				"y" : 
+				[
+					-2.367224216461182,
+					-2.367224216461182,
+					-0.8672242164611816,
+					-0.8672242164611816
+				]
+			},
+			"file" : "images/level2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				19.54180526733398,
+				-2.367224216461182,
+				25.97755813598633,
+				-2.367224216461182,
+				25.97755813598633,
+				-0.8672242164611816,
+				19.54180526733398,
+				-0.8672242164611816
+			],
+			"name" : "dirt_image_1",
+			"opacity" : 1,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 3.499351501464844,
+				"y" : -1.617224216461182
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					0.2814742326736450,
+					6.717228889465332,
+					6.717228889465332,
+					0.2814742326736450
+				],
+				"y" : 
+				[
+					-2.367224216461182,
+					-2.367224216461182,
+					-0.8672242164611816,
+					-0.8672242164611816
+				]
+			},
+			"file" : "images/level2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				0.2814742326736450,
+				-2.367224216461182,
+				6.717228889465332,
+				-2.367224216461182,
+				6.717228889465332,
+				-0.8672242164611816,
+				0.2814742326736450,
+				-0.8672242164611816
+			],
+			"name" : "dirt_image_1",
+			"opacity" : 1,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 21,
+			"center" : 
+			{
+				"x" : -0.005151873454451561,
+				"y" : -0.02676238119602203
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9091518521308899,
+					0.8988481163978577,
+					0.8988481163978577,
+					-0.9091518521308899
+				],
+				"y" : 
+				[
+					-0.2667623758316040,
+					-0.2667623758316040,
+					0.2132376134395599,
+					0.2132376134395599
+				]
+			},
+			"file" : "images/bazooka.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9091518521308899,
+				-0.2667623758316040,
+				0.8988481163978577,
+				-0.2667623758316040,
+				0.8988481163978577,
+				0.2132376134395599,
+				-0.9091518521308899,
+				0.2132376134395599
+			],
+			"name" : "bazookaSprite1",
+			"opacity" : 1,
+			"scale" : 0.48
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -1.752093076705933,
+				"y" : 7.946913242340088
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-1.952093124389648,
+					-1.552093029022217,
+					-1.552093029022217,
+					-1.952093124389648
+				],
+				"y" : 
+				[
+					7.746913433074951,
+					7.746913433074951,
+					8.146913528442383,
+					8.146913528442383
+				]
+			},
+			"file" : "images/metal_grid_bolt.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-1.952093124389648,
+				7.746913433074951,
+				-1.552093029022217,
+				7.746913433074951,
+				-1.552093029022217,
+				8.146913528442383,
+				-1.952093124389648,
+				8.146913528442383
+			],
+			"name" : "image3",
+			"opacity" : 1,
+			"scale" : 0.4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 9.919128417968750,
+				"y" : -1.617224216461182
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					6.701251029968262,
+					13.13700580596924,
+					13.13700580596924,
+					6.701251029968262
+				],
+				"y" : 
+				[
+					-2.367224216461182,
+					-2.367224216461182,
+					-0.8672242164611816,
+					-0.8672242164611816
+				]
+			},
+			"file" : "images/level2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				6.701251029968262,
+				-2.367224216461182,
+				13.13700580596924,
+				-2.367224216461182,
+				13.13700580596924,
+				-0.8672242164611816,
+				6.701251029968262,
+				-0.8672242164611816
+			],
+			"name" : "dirt_image_1",
+			"opacity" : 1,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 35,
+			"center" : 
+			{
+				"x" : 0.01736068725585938,
+				"y" : 0.01217269897460938
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-2.829413414001465,
+					2.864134788513184,
+					2.864134788513184,
+					-2.829413414001465
+				],
+				"y" : 
+				[
+					-0.2378273010253906,
+					-0.2378273010253906,
+					0.2621726989746094,
+					0.2621726989746094
+				]
+			},
+			"file" : "images/metal_grid.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-2.829413414001465,
+				-0.2378273010253906,
+				2.864134788513184,
+				-0.2378273010253906,
+				2.864134788513184,
+				0.2621726989746094,
+				-2.829413414001465,
+				0.2621726989746094
+			],
+			"name" : "image4",
+			"opacity" : 1,
+			"scale" : 0.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 0,
+			"center" : 
+			{
+				"x" : 0.01736068725585938,
+				"y" : 0.01217269897460938
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-2.829413414001465,
+					2.864134788513184,
+					2.864134788513184,
+					-2.829413414001465
+				],
+				"y" : 
+				[
+					-0.2378273010253906,
+					-0.2378273010253906,
+					0.2621726989746094,
+					0.2621726989746094
+				]
+			},
+			"file" : "images/metal_grid.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-2.829413414001465,
+				-0.2378273010253906,
+				2.864134788513184,
+				-0.2378273010253906,
+				2.864134788513184,
+				0.2621726989746094,
+				-2.829413414001465,
+				0.2621726989746094
+			],
+			"name" : "image4",
+			"opacity" : 1,
+			"scale" : 0.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 10,
+			"center" : 0,
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2044444531202316,
+					0.2044444531202316,
+					0.2044444531202316,
+					-0.2044444531202316
+				],
+				"y" : [ -0.2, -0.2, 0.2, 0.2 ]
+			},
+			"file" : "images/levels_star.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2044444531202316,
+				-0.2,
+				0.2044444531202316,
+				-0.2,
+				0.2044444531202316,
+				0.2,
+				-0.2044444531202316,
+				0.2
+			],
+			"name" : "starSprite0",
+			"opacity" : 1,
+			"scale" : 0.4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 53,
+			"center" : 
+			{
+				"x" : -0.005151873454451561,
+				"y" : -0.02676238119602203
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.9091518521308899,
+					0.8988481163978577,
+					0.8988481163978577,
+					-0.9091518521308899
+				],
+				"y" : 
+				[
+					-0.2667623758316040,
+					-0.2667623758316040,
+					0.2132376134395599,
+					0.2132376134395599
+				]
+			},
+			"file" : "images/bazooka.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.9091518521308899,
+				-0.2667623758316040,
+				0.8988481163978577,
+				-0.2667623758316040,
+				0.8988481163978577,
+				0.2132376134395599,
+				-0.9091518521308899,
+				0.2132376134395599
+			],
+			"name" : "bazookaSprite0",
+			"opacity" : 1,
+			"scale" : 0.48
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 28.41584396362305,
+				"y" : 2.631818294525147
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					28.21584320068359,
+					28.61584472656250,
+					28.61584472656250,
+					28.21584320068359
+				],
+				"y" : 
+				[
+					2.431818246841431,
+					2.431818246841431,
+					2.831818342208862,
+					2.831818342208862
+				]
+			},
+			"file" : "images/metal_grid_bolt.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				28.21584320068359,
+				2.431818246841431,
+				28.61584472656250,
+				2.431818246841431,
+				28.61584472656250,
+				2.831818342208862,
+				28.21584320068359,
+				2.831818342208862
+			],
+			"name" : "image3",
+			"opacity" : 1,
+			"scale" : 0.4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 30,
+			"center" : 
+			{
+				"x" : 0.001173734664916992,
+				"y" : 0.007385015487670898
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.04257626459002495,
+					0.04492373391985893,
+					0.04492373391985893,
+					-0.04257626459002495
+				],
+				"y" : 
+				[
+					-0.04261498525738716,
+					-0.04261498525738716,
+					0.05738501623272896,
+					0.05738501623272896
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.04257626459002495,
+				-0.04261498525738716,
+				0.04492373391985893,
+				-0.04261498525738716,
+				0.04492373391985893,
+				0.05738501623272896,
+				-0.04257626459002495,
+				0.05738501623272896
+			],
+			"name" : "prismaticSprite1",
+			"opacity" : 0,
+			"scale" : 0.1
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 35.58723831176758,
+				"y" : -1.617220044136047
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					32.36936187744141,
+					38.80511474609375,
+					38.80511474609375,
+					32.36936187744141
+				],
+				"y" : 
+				[
+					-2.367219924926758,
+					-2.367219924926758,
+					-0.8672200441360474,
+					-0.8672200441360474
+				]
+			},
+			"file" : "images/level2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				32.36936187744141,
+				-2.367219924926758,
+				38.80511474609375,
+				-2.367219924926758,
+				38.80511474609375,
+				-0.8672200441360474,
+				32.36936187744141,
+				-0.8672200441360474
+			],
+			"name" : "dirt_image_1",
+			"opacity" : 1,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -2.926320075988770,
+				"y" : -1.617220044136047
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-6.144197463989258,
+					0.2915571928024292,
+					0.2915571928024292,
+					-6.144197463989258
+				],
+				"y" : 
+				[
+					-2.367219924926758,
+					-2.367219924926758,
+					-0.8672200441360474,
+					-0.8672200441360474
+				]
+			},
+			"file" : "images/level2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-6.144197463989258,
+				-2.367219924926758,
+				0.2915571928024292,
+				-2.367219924926758,
+				0.2915571928024292,
+				-0.8672200441360474,
+				-6.144197463989258,
+				-0.8672200441360474
+			],
+			"name" : "dirt_image_1",
+			"opacity" : 1,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 46,
+			"center" : 
+			{
+				"x" : 0.01736068725585938,
+				"y" : 0.01217269897460938
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-2.829413414001465,
+					2.864134788513184,
+					2.864134788513184,
+					-2.829413414001465
+				],
+				"y" : 
+				[
+					-0.2378273010253906,
+					-0.2378273010253906,
+					0.2621726989746094,
+					0.2621726989746094
+				]
+			},
+			"file" : "images/metal_grid.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-2.829413414001465,
+				-0.2378273010253906,
+				2.864134788513184,
+				-0.2378273010253906,
+				2.864134788513184,
+				0.2621726989746094,
+				-2.829413414001465,
+				0.2621726989746094
+			],
+			"name" : "image4",
+			"opacity" : 1,
+			"scale" : 0.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 11,
+			"center" : 0,
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2044444531202316,
+					0.2044444531202316,
+					0.2044444531202316,
+					-0.2044444531202316
+				],
+				"y" : [ -0.2, -0.2, 0.2, 0.2 ]
+			},
+			"file" : "images/levels_star.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2044444531202316,
+				-0.2,
+				0.2044444531202316,
+				-0.2,
+				0.2044444531202316,
+				0.2,
+				-0.2044444531202316,
+				0.2
+			],
+			"name" : "starSprite1",
+			"opacity" : 1,
+			"scale" : 0.4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -3.491912841796875,
+				"y" : 7.946913242340088
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-3.691912889480591,
+					-3.291912794113159,
+					-3.291912794113159,
+					-3.691912889480591
+				],
+				"y" : 
+				[
+					7.746913433074951,
+					7.746913433074951,
+					8.146913528442383,
+					8.146913528442383
+				]
+			},
+			"file" : "images/metal_grid_bolt.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-3.691912889480591,
+				7.746913433074951,
+				-3.291912794113159,
+				7.746913433074951,
+				-3.291912794113159,
+				8.146913528442383,
+				-3.691912889480591,
+				8.146913528442383
+			],
+			"name" : "image3",
+			"opacity" : 1,
+			"scale" : 0.4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -1.700648784637451,
+				"y" : 16.98246192932129
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-1.900648832321167,
+					-1.500648736953735,
+					-1.500648736953735,
+					-1.900648832321167
+				],
+				"y" : 
+				[
+					16.78246116638184,
+					16.78246116638184,
+					17.18246269226074,
+					17.18246269226074
+				]
+			},
+			"file" : "images/metal_grid_bolt.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-1.900648832321167,
+				16.78246116638184,
+				-1.500648736953735,
+				16.78246116638184,
+				-1.500648736953735,
+				17.18246269226074,
+				-1.900648832321167,
+				17.18246269226074
+			],
+			"name" : "image3",
+			"opacity" : 1,
+			"scale" : 0.4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 16.34124755859375,
+				"y" : -1.617224216461182
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					13.12337017059326,
+					19.55912399291992,
+					19.55912399291992,
+					13.12337017059326
+				],
+				"y" : 
+				[
+					-2.367224216461182,
+					-2.367224216461182,
+					-0.8672242164611816,
+					-0.8672242164611816
+				]
+			},
+			"file" : "images/level2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				13.12337017059326,
+				-2.367224216461182,
+				19.55912399291992,
+				-2.367224216461182,
+				19.55912399291992,
+				-0.8672242164611816,
+				13.12337017059326,
+				-0.8672242164611816
+			],
+			"name" : "dirt_image_1",
+			"opacity" : 1,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 40,
+			"center" : 
+			{
+				"x" : 0.01736068725585938,
+				"y" : 0.01217269897460938
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-2.829413414001465,
+					2.864134788513184,
+					2.864134788513184,
+					-2.829413414001465
+				],
+				"y" : 
+				[
+					-0.2378273010253906,
+					-0.2378273010253906,
+					0.2621726989746094,
+					0.2621726989746094
+				]
+			},
+			"file" : "images/metal_grid.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-2.829413414001465,
+				-0.2378273010253906,
+				2.864134788513184,
+				-0.2378273010253906,
+				2.864134788513184,
+				0.2621726989746094,
+				-2.829413414001465,
+				0.2621726989746094
+			],
+			"name" : "image4",
+			"opacity" : 1,
+			"scale" : 0.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -9.342118263244629,
+				"y" : -1.617220044136047
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-12.55999565124512,
+					-6.124240875244141,
+					-6.124240875244141,
+					-12.55999565124512
+				],
+				"y" : 
+				[
+					-2.367219924926758,
+					-2.367219924926758,
+					-0.8672200441360474,
+					-0.8672200441360474
+				]
+			},
+			"file" : "images/level2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-12.55999565124512,
+				-2.367219924926758,
+				-6.124240875244141,
+				-2.367219924926758,
+				-6.124240875244141,
+				-0.8672200441360474,
+				-12.55999565124512,
+				-0.8672200441360474
+			],
+			"name" : "dirt_image_1",
+			"opacity" : 1,
+			"scale" : 1.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 29.18259811401367,
+				"y" : -1.617224216461182
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					25.96472167968750,
+					32.40047454833984,
+					32.40047454833984,
+					25.96472167968750
+				],
+				"y" : 
+				[
+					-2.367224216461182,
+					-2.367224216461182,
+					-0.8672242164611816,
+					-0.8672242164611816
+				]
+			},
+			"file" : "images/level2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				25.96472167968750,
+				-2.367224216461182,
+				32.40047454833984,
+				-2.367224216461182,
+				32.40047454833984,
+				-0.8672242164611816,
+				25.96472167968750,
+				-0.8672242164611816
+			],
+			"name" : "dirt_image_1",
+			"opacity" : 1,
+			"scale" : 1.5
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1.5,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -7.930813789367676,
+				"y" : 15.65590763092041
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-4.430813789367676,
+					-4.430813789367676,
+					-11.43081378936768,
+					-11.43081378936768
+				],
+				"y" : 
+				[
+					11.06215763092041,
+					20.24965858459473,
+					20.24965667724609,
+					11.06215763092041
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-4.430813789367676,
+				11.06215763092041,
+				-4.430813789367676,
+				20.24965858459473,
+				-11.43081378936768,
+				20.24965667724609,
+				-11.43081378936768,
+				11.06215763092041
+			],
+			"name" : "image8",
+			"opacity" : 1,
+			"renderOrder" : 1,
+			"scale" : 7
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1.5,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -7.930813789367676,
+				"y" : 6.501446247100830
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-4.430813789367676,
+					-4.430813789367676,
+					-11.43081378936768,
+					-11.43081378936768
+				],
+				"y" : 
+				[
+					1.907696366310120,
+					11.09519672393799,
+					11.09519577026367,
+					1.907696127891541
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-4.430813789367676,
+				1.907696366310120,
+				-4.430813789367676,
+				11.09519672393799,
+				-11.43081378936768,
+				11.09519577026367,
+				-11.43081378936768,
+				1.907696127891541
+			],
+			"name" : "image8",
+			"opacity" : 1,
+			"renderOrder" : 1,
+			"scale" : 7
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1.5,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 3.978529930114746,
+				"y" : 15.73960018157959
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					6.562745094299316,
+					6.562744617462158,
+					1.394314885139465,
+					1.394315123558044
+				],
+				"y" : 
+				[
+					12.34781837463379,
+					19.13138198852539,
+					19.13138198852539,
+					12.34781837463379
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				6.562745094299316,
+				12.34781837463379,
+				6.562744617462158,
+				19.13138198852539,
+				1.394314885139465,
+				19.13138198852539,
+				1.394315123558044,
+				12.34781837463379
+			],
+			"name" : "image8",
+			"opacity" : 1,
+			"renderOrder" : 1,
+			"scale" : 5.168429851531982
+		},
+		
+		{
+			"angle" : 2.181661605834961,
+			"aspectScale" : 0.5,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -4.010876178741455,
+				"y" : 23.60259628295898
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-1.245529174804688,
+					-2.542493343353272,
+					-6.776223182678223,
+					-5.479259014129639
+				],
+				"y" : 
+				[
+					24.15871238708496,
+					26.01096916198731,
+					23.04648017883301,
+					21.19422340393066
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-1.245529174804688,
+				24.15871238708496,
+				-2.542493343353272,
+				26.01096916198731,
+				-6.776223182678223,
+				23.04648017883301,
+				-5.479259014129639,
+				21.19422340393066
+			],
+			"name" : "image8",
+			"opacity" : 1,
+			"renderOrder" : 1,
+			"scale" : 5.168429851531982
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1.5,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 23.10972785949707,
+				"y" : 4.932678222656250
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					25.69394493103027,
+					25.69394493103027,
+					20.52551078796387,
+					20.52551078796387
+				],
+				"y" : 
+				[
+					1.540894389152527,
+					8.324461936950684,
+					8.324461936950684,
+					1.540894150733948
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				25.69394493103027,
+				1.540894389152527,
+				25.69394493103027,
+				8.324461936950684,
+				20.52551078796387,
+				8.324461936950684,
+				20.52551078796387,
+				1.540894150733948
+			],
+			"name" : "image8",
+			"opacity" : 1,
+			"renderOrder" : 1,
+			"scale" : 5.168432712554932
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1.5,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 33.34091186523438,
+				"y" : 16.95470046997070
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					35.92512893676758,
+					35.92512893676758,
+					30.75669479370117,
+					30.75669479370117
+				],
+				"y" : 
+				[
+					13.56291675567627,
+					20.34648513793945,
+					20.34648513793945,
+					13.56291675567627
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				35.92512893676758,
+				13.56291675567627,
+				35.92512893676758,
+				20.34648513793945,
+				30.75669479370117,
+				20.34648513793945,
+				30.75669479370117,
+				13.56291675567627
+			],
+			"name" : "image8",
+			"opacity" : 1,
+			"renderOrder" : 1,
+			"scale" : 5.168432712554932
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1.5,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 3.978528261184692,
+				"y" : 9.166832923889160
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					6.562744617462158,
+					6.562744617462158,
+					1.394311785697937,
+					1.394312024116516
+				],
+				"y" : 
+				[
+					5.775049209594727,
+					12.55861663818359,
+					12.55861663818359,
+					5.775048732757568
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				6.562744617462158,
+				5.775049209594727,
+				6.562744617462158,
+				12.55861663818359,
+				1.394311785697937,
+				12.55861663818359,
+				1.394312024116516,
+				5.775048732757568
+			],
+			"name" : "image8",
+			"opacity" : 1,
+			"renderOrder" : 1,
+			"scale" : 5.168432712554932
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1.5,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 33.34091186523438,
+				"y" : 10.22417831420898
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					35.92512893676758,
+					35.92512893676758,
+					30.75669479370117,
+					30.75669479370117
+				],
+				"y" : 
+				[
+					6.832394599914551,
+					13.61596202850342,
+					13.61596202850342,
+					6.832394123077393
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				35.92512893676758,
+				6.832394599914551,
+				35.92512893676758,
+				13.61596202850342,
+				30.75669479370117,
+				13.61596202850342,
+				30.75669479370117,
+				6.832394123077393
+			],
+			"name" : "image8",
+			"opacity" : 1,
+			"renderOrder" : 1,
+			"scale" : 5.168432712554932
+		},
+		
+		{
+			"angle" : 2.181661605834961,
+			"aspectScale" : 0.5,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 6.985946178436279,
+				"y" : 16.33034324645996
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					9.751293182373047,
+					8.454328536987305,
+					4.220599174499512,
+					5.517563343048096
+				],
+				"y" : 
+				[
+					16.88645935058594,
+					18.73871612548828,
+					15.77422714233398,
+					13.92197036743164
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				9.751293182373047,
+				16.88645935058594,
+				8.454328536987305,
+				18.73871612548828,
+				4.220599174499512,
+				15.77422714233398,
+				5.517563343048096,
+				13.92197036743164
+			],
+			"name" : "image8",
+			"opacity" : 1,
+			"renderOrder" : 1,
+			"scale" : 5.168429851531982
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1.5,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -7.018292427062988,
+				"y" : 23.01185226440430
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-4.434077262878418,
+					-4.434077739715576,
+					-9.602507591247559,
+					-9.602507591247559
+				],
+				"y" : 
+				[
+					19.62006950378418,
+					26.40363502502441,
+					26.40363502502441,
+					19.62006950378418
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-4.434077262878418,
+				19.62006950378418,
+				-4.434077739715576,
+				26.40363502502441,
+				-9.602507591247559,
+				26.40363502502441,
+				-9.602507591247559,
+				19.62006950378418
+			],
+			"name" : "image8",
+			"opacity" : 1,
+			"renderOrder" : 1,
+			"scale" : 5.168429851531982
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 0.5,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 7.160483837127686,
+				"y" : 18.00858879089356
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					9.744698524475098,
+					9.744698524475098,
+					4.576268672943115,
+					4.576269149780273
+				],
+				"y" : 
+				[
+					16.87799453735352,
+					19.13918304443359,
+					19.13918304443359,
+					16.87799453735352
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				9.744698524475098,
+				16.87799453735352,
+				9.744698524475098,
+				19.13918304443359,
+				4.576268672943115,
+				19.13918304443359,
+				4.576269149780273,
+				16.87799453735352
+			],
+			"name" : "image8",
+			"opacity" : 1,
+			"renderOrder" : 1,
+			"scale" : 5.168429851531982
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1.5,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 3.978528261184692,
+				"y" : 2.436311483383179
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					6.562744617462158,
+					6.562744617462158,
+					1.394311785697937,
+					1.394312024116516
+				],
+				"y" : 
+				[
+					-0.9554723501205444,
+					5.828095436096191,
+					5.828095436096191,
+					-0.9554725885391235
+				]
+			},
+			"file" : "images/dirt_rectangle.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				6.562744617462158,
+				-0.9554723501205444,
+				6.562744617462158,
+				5.828095436096191,
+				1.394311785697937,
+				5.828095436096191,
+				1.394312024116516,
+				-0.9554725885391235
+			],
+			"name" : "image8",
+			"opacity" : 1,
+			"renderOrder" : 1,
+			"scale" : 5.168432712554932
+		},
+		
+		{
+			"aspectScale" : 31.0,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 23.08329582214356,
+				"y" : 8.271747589111328
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					20.44829559326172,
+					25.71829605102539,
+					25.71829605102539,
+					20.44829559326172
+				],
+				"y" : 
+				[
+					8.186747550964356,
+					8.186747550964356,
+					8.356747627258301,
+					8.356747627258301
+				]
+			},
+			"file" : "images/grass_land_piece.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				20.44829559326172,
+				8.186747550964356,
+				25.71829605102539,
+				8.186747550964356,
+				25.71829605102539,
+				8.356747627258301,
+				20.44829559326172,
+				8.356747627258301
+			],
+			"name" : "image18",
+			"opacity" : 1,
+			"renderOrder" : 2,
+			"scale" : 0.17
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 34,
+			"center" : 
+			{
+				"x" : 0.1704735755920410,
+				"y" : -0.5708677768707275
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					0.1426957994699478,
+					0.1982513517141342,
+					0.1982513517141342,
+					0.1426957994699478
+				],
+				"y" : 
+				[
+					-0.5958677530288696,
+					-0.5958677530288696,
+					-0.5458678007125855,
+					-0.5458678007125855
+				]
+			},
+			"file" : "images/camera_dot.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				0.1426957994699478,
+				-0.5958677530288696,
+				0.1982513517141342,
+				-0.5958677530288696,
+				0.1982513517141342,
+				-0.5458678007125855,
+				0.1426957994699478,
+				-0.5458678007125855
+			],
+			"name" : "cameraEye0_1",
+			"opacity" : 1,
+			"renderOrder" : 2,
+			"scale" : 0.05
+		},
+		
+		{
+			"angle" : 0.3490658402442932,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -5.70373535156250,
+				"y" : 7.958035945892334
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-6.179996013641357,
+					-4.885454654693604,
+					-5.227474689483643,
+					-6.522016048431397
+				],
+				"y" : 
+				[
+					7.252602577209473,
+					7.723776817321777,
+					8.663469314575195,
+					8.192295074462891
+				]
+			},
+			"file" : "images/drago.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-6.179996013641357,
+				7.252602577209473,
+				-4.885454654693604,
+				7.723776817321777,
+				-5.227474689483643,
+				8.663469314575195,
+				-6.522016048431397,
+				8.192295074462891
+			],
+			"name" : "image2",
+			"opacity" : 1,
+			"renderOrder" : 2,
+			"scale" : 1
+		},
+		
+		{
+			"aspectScale" : 50.0,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 5.554613113403320,
+				"y" : 19.19297027587891
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					1.304613113403320,
+					9.804613113403320,
+					9.804613113403320,
+					1.304613113403320
+				],
+				"y" : 
+				[
+					19.10797119140625,
+					19.10797119140625,
+					19.27796936035156,
+					19.27796936035156
+				]
+			},
+			"file" : "images/grass_land_piece.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				1.304613113403320,
+				19.10797119140625,
+				9.804613113403320,
+				19.10797119140625,
+				9.804613113403320,
+				19.27796936035156,
+				1.304613113403320,
+				19.27796936035156
+			],
+			"name" : "image18",
+			"opacity" : 1,
+			"renderOrder" : 2,
+			"scale" : 0.17
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 27,
+			"center" : 
+			{
+				"x" : -0.005987167358398438,
+				"y" : 0.006934642791748047
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.3699215948581696,
+					0.3579472601413727,
+					0.3579472601413727,
+					-0.3699215948581696
+				],
+				"y" : 
+				[
+					-0.5930653810501099,
+					-0.5930653810501099,
+					0.6069346666336060,
+					0.6069346666336060
+				]
+			},
+			"file" : "images/barrel.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.3699215948581696,
+				-0.5930653810501099,
+				0.3579472601413727,
+				-0.5930653810501099,
+				0.3579472601413727,
+				0.6069346666336060,
+				-0.3699215948581696,
+				0.6069346666336060
+			],
+			"name" : "barrelSprite3",
+			"opacity" : 1,
+			"renderOrder" : 2,
+			"scale" : 1.2
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 2.616309165954590,
+				"y" : 18.16293334960938
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					2.816309213638306,
+					2.816309213638306,
+					2.416309118270874,
+					2.416309118270874
+				],
+				"y" : 
+				[
+					18.01216506958008,
+					18.31370353698731,
+					18.31370162963867,
+					18.01216316223145
+				]
+			},
+			"file" : "images/stone_0.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				2.816309213638306,
+				18.01216506958008,
+				2.816309213638306,
+				18.31370353698731,
+				2.416309118270874,
+				18.31370162963867,
+				2.416309118270874,
+				18.01216316223145
+			],
+			"name" : "image14",
+			"opacity" : 0.7,
+			"renderOrder" : 3,
+			"scale" : 0.4
+		},
+		
+		{
+			"angle" : 1.745329260826111,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -5.084231376647949,
+				"y" : 19.66650772094727
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-4.749517917633057,
+					-4.828060150146484,
+					-5.418944835662842,
+					-5.340402603149414
+				],
+				"y" : 
+				[
+					19.49588394165039,
+					19.94132041931152,
+					19.83713150024414,
+					19.39169502258301
+				]
+			},
+			"file" : "images/stone_0.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-4.749517917633057,
+				19.49588394165039,
+				-4.828060150146484,
+				19.94132041931152,
+				-5.418944835662842,
+				19.83713150024414,
+				-5.340402603149414,
+				19.39169502258301
+			],
+			"name" : "image14",
+			"opacity" : 0.7,
+			"renderOrder" : 3,
+			"scale" : 0.6
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 6.752068996429443,
+				"y" : 16.08266067504883
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					6.079363346099854,
+					7.424774646759033,
+					7.424774646759033,
+					6.079363346099854
+				],
+				"y" : 
+				[
+					15.44906520843506,
+					15.44906520843506,
+					16.71625518798828,
+					16.71625518798828
+				]
+			},
+			"file" : "images/stone_1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				6.079363346099854,
+				15.44906520843506,
+				7.424774646759033,
+				15.44906520843506,
+				7.424774646759033,
+				16.71625518798828,
+				6.079363346099854,
+				16.71625518798828
+			],
+			"name" : "image15",
+			"opacity" : 0.7,
+			"renderOrder" : 3,
+			"scale" : 1.267190098762512
+		},
+		
+		{
+			"angle" : 0.1745329201221466,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 25.43132781982422,
+				"y" : 1.912329673767090
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					25.31757926940918,
+					25.61453628540039,
+					25.54507637023926,
+					25.24811935424805
+				],
+				"y" : 
+				[
+					1.689187288284302,
+					1.741548895835877,
+					2.135472059249878,
+					2.083110332489014
+				]
+			},
+			"file" : "images/stone_0.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				25.31757926940918,
+				1.689187288284302,
+				25.61453628540039,
+				1.741548895835877,
+				25.54507637023926,
+				2.135472059249878,
+				25.24811935424805,
+				2.083110332489014
+			],
+			"name" : "image14",
+			"opacity" : 0.7,
+			"renderOrder" : 3,
+			"scale" : 0.4
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 2.271793842315674,
+				"y" : 9.871870040893555
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					2.871793985366821,
+					2.871793746948242,
+					1.671793818473816,
+					1.671793818473816
+				],
+				"y" : 
+				[
+					9.159370422363281,
+					10.58436965942383,
+					10.58436965942383,
+					9.159370422363281
+				]
+			},
+			"file" : "images/stone_3.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				2.871793985366821,
+				9.159370422363281,
+				2.871793746948242,
+				10.58436965942383,
+				1.671793818473816,
+				10.58436965942383,
+				1.671793818473816,
+				9.159370422363281
+			],
+			"name" : "image11",
+			"opacity" : 0.5,
+			"renderOrder" : 3,
+			"scale" : 1.2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 2.589539289474487,
+				"y" : 7.016813278198242
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					1.916833400726318,
+					3.262245178222656,
+					3.262245178222656,
+					1.916833400726318
+				],
+				"y" : 
+				[
+					6.383218288421631,
+					6.383218288421631,
+					7.650408267974854,
+					7.650408267974854
+				]
+			},
+			"file" : "images/stone_1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				1.916833400726318,
+				6.383218288421631,
+				3.262245178222656,
+				6.383218288421631,
+				3.262245178222656,
+				7.650408267974854,
+				1.916833400726318,
+				7.650408267974854
+			],
+			"name" : "image15",
+			"opacity" : 0.7,
+			"renderOrder" : 3,
+			"scale" : 1.267190098762512
+		},
+		
+		{
+			"angle" : 0.3490658402442932,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -5.410186290740967,
+				"y" : 21.09525299072266
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-5.966150760650635,
+					-4.409595489501953,
+					-4.854221820831299,
+					-6.410777091979981
+				],
+				"y" : 
+				[
+					20.20118331909180,
+					20.76772308349609,
+					21.98932266235352,
+					21.42278289794922
+				]
+			},
+			"file" : "images/stone_2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-5.966150760650635,
+				20.20118331909180,
+				-4.409595489501953,
+				20.76772308349609,
+				-4.854221820831299,
+				21.98932266235352,
+				-6.410777091979981,
+				21.42278289794922
+			],
+			"name" : "image12",
+			"opacity" : 1,
+			"renderOrder" : 3,
+			"scale" : 1.3
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 1.826402664184570,
+				"y" : 18.53698348999023
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					1.560970544815064,
+					2.091834783554077,
+					2.091834783554077,
+					1.560970544815064
+				],
+				"y" : 
+				[
+					18.28698348999023,
+					18.28698348999023,
+					18.78698348999023,
+					18.78698348999023
+				]
+			},
+			"file" : "images/stone_1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				1.560970544815064,
+				18.28698348999023,
+				2.091834783554077,
+				18.28698348999023,
+				2.091834783554077,
+				18.78698348999023,
+				1.560970544815064,
+				18.78698348999023
+			],
+			"name" : "image17",
+			"opacity" : 1,
+			"renderOrder" : 3,
+			"scale" : 0.5
+		},
+		
+		{
+			"angle" : 0.3490658402442932,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 7.359607696533203,
+				"y" : 17.99099540710449
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					6.803643226623535,
+					8.360198020935059,
+					7.915572166442871,
+					6.359016895294190
+				],
+				"y" : 
+				[
+					17.09692573547363,
+					17.66346549987793,
+					18.88506507873535,
+					18.31852531433106
+				]
+			},
+			"file" : "images/stone_2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				6.803643226623535,
+				17.09692573547363,
+				8.360198020935059,
+				17.66346549987793,
+				7.915572166442871,
+				18.88506507873535,
+				6.359016895294190,
+				18.31852531433106
+			],
+			"name" : "image12",
+			"opacity" : 1,
+			"renderOrder" : 3,
+			"scale" : 1.3
+		},
+		
+		{
+			"angle" : 0.3490658402442932,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 2.513333082199097,
+				"y" : 16.52978324890137
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					1.957368493080139,
+					3.513923883438110,
+					3.069297790527344,
+					1.512742280960083
+				],
+				"y" : 
+				[
+					15.63571357727051,
+					16.20225334167481,
+					17.42385292053223,
+					16.85731315612793
+				]
+			},
+			"file" : "images/stone_2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				1.957368493080139,
+				15.63571357727051,
+				3.513923883438110,
+				16.20225334167481,
+				3.069297790527344,
+				17.42385292053223,
+				1.512742280960083,
+				16.85731315612793
+			],
+			"name" : "image12",
+			"opacity" : 1,
+			"renderOrder" : 3,
+			"scale" : 1.3
+		},
+		
+		{
+			"angle" : 0.7853981852531433,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 21.28793525695801,
+				"y" : 2.366912364959717
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					21.20838546752930,
+					22.21601295471191,
+					21.36748504638672,
+					20.35985755920410
+				],
+				"y" : 
+				[
+					1.438834667205811,
+					2.446461915969849,
+					3.294990062713623,
+					2.287362813949585
+				]
+			},
+			"file" : "images/stone_3.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				21.20838546752930,
+				1.438834667205811,
+				22.21601295471191,
+				2.446461915969849,
+				21.36748504638672,
+				3.294990062713623,
+				20.35985755920410,
+				2.287362813949585
+			],
+			"name" : "image11",
+			"opacity" : 0.5,
+			"renderOrder" : 3,
+			"scale" : 1.2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 31.95192337036133,
+				"y" : 14.80468082427979
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					31.27921676635742,
+					32.62462997436523,
+					32.62462997436523,
+					31.27921676635742
+				],
+				"y" : 
+				[
+					14.17108535766602,
+					14.17108535766602,
+					15.43827629089356,
+					15.43827629089356
+				]
+			},
+			"file" : "images/stone_1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				31.27921676635742,
+				14.17108535766602,
+				32.62462997436523,
+				14.17108535766602,
+				32.62462997436523,
+				15.43827629089356,
+				31.27921676635742,
+				15.43827629089356
+			],
+			"name" : "image15",
+			"opacity" : 0.7,
+			"renderOrder" : 3,
+			"scale" : 1.267190098762512
+		},
+		
+		{
+			"angle" : 0.7853981852531433,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -6.879915237426758,
+				"y" : 2.869815826416016
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-6.959464550018311,
+					-5.951837539672852,
+					-6.800365924835205,
+					-7.807992935180664
+				],
+				"y" : 
+				[
+					1.941738128662109,
+					2.949365377426148,
+					3.797893524169922,
+					2.790266275405884
+				]
+			},
+			"file" : "images/stone_3.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-6.959464550018311,
+				1.941738128662109,
+				-5.951837539672852,
+				2.949365377426148,
+				-6.800365924835205,
+				3.797893524169922,
+				-7.807992935180664,
+				2.790266275405884
+			],
+			"name" : "image11",
+			"opacity" : 0.5,
+			"renderOrder" : 3,
+			"scale" : 1.2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 6.308754920959473,
+				"y" : 16.99810409545898
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					6.043323040008545,
+					6.57418680191040,
+					6.57418680191040,
+					6.043323040008545
+				],
+				"y" : 
+				[
+					16.74810409545898,
+					16.74810409545898,
+					17.24810409545898,
+					17.24810409545898
+				]
+			},
+			"file" : "images/stone_1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				6.043323040008545,
+				16.74810409545898,
+				6.57418680191040,
+				16.74810409545898,
+				6.57418680191040,
+				17.24810409545898,
+				6.043323040008545,
+				17.24810409545898
+			],
+			"name" : "image17",
+			"opacity" : 1,
+			"renderOrder" : 3,
+			"scale" : 0.5
+		},
+		
+		{
+			"angle" : 0.1745329201221466,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -5.733990192413330,
+				"y" : 2.237962722778320
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-5.847739219665527,
+					-5.550781726837158,
+					-5.620241165161133,
+					-5.917198657989502
+				],
+				"y" : 
+				[
+					2.014820337295532,
+					2.067182064056397,
+					2.461105108261108,
+					2.408743381500244
+				]
+			},
+			"file" : "images/stone_0.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-5.847739219665527,
+				2.014820337295532,
+				-5.550781726837158,
+				2.067182064056397,
+				-5.620241165161133,
+				2.461105108261108,
+				-5.917198657989502,
+				2.408743381500244
+			],
+			"name" : "image14",
+			"opacity" : 0.7,
+			"renderOrder" : 3,
+			"scale" : 0.4
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 24.17269515991211,
+				"y" : 2.072777748107910
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					23.90726280212402,
+					24.43812751770020,
+					24.43812751770020,
+					23.90726280212402
+				],
+				"y" : 
+				[
+					1.822777748107910,
+					1.822777748107910,
+					2.322777748107910,
+					2.322777748107910
+				]
+			},
+			"file" : "images/stone_1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				23.90726280212402,
+				1.822777748107910,
+				24.43812751770020,
+				1.822777748107910,
+				24.43812751770020,
+				2.322777748107910,
+				23.90726280212402,
+				2.322777748107910
+			],
+			"name" : "image17",
+			"opacity" : 1,
+			"renderOrder" : 3,
+			"scale" : 0.5
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -4.867453575134277,
+				"y" : 22.76995086669922
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-5.540159225463867,
+					-4.194747924804688,
+					-4.194747924804688,
+					-5.540159225463867
+				],
+				"y" : 
+				[
+					22.13635635375977,
+					22.13635635375977,
+					23.40354537963867,
+					23.40354537963867
+				]
+			},
+			"file" : "images/stone_1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-5.540159225463867,
+				22.13635635375977,
+				-4.194747924804688,
+				22.13635635375977,
+				-4.194747924804688,
+				23.40354537963867,
+				-5.540159225463867,
+				23.40354537963867
+			],
+			"name" : "image15",
+			"opacity" : 0.7,
+			"renderOrder" : 3,
+			"scale" : 1.267190098762512
+		},
+		
+		{
+			"angle" : 1.745329260826111,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 2.306022405624390,
+				"y" : 13.52853965759277
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					2.640735864639282,
+					2.562193632125855,
+					1.971308827400208,
+					2.049851179122925
+				],
+				"y" : 
+				[
+					13.35791587829590,
+					13.80335235595703,
+					13.69916343688965,
+					13.25372695922852
+				]
+			},
+			"file" : "images/stone_0.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				2.640735864639282,
+				13.35791587829590,
+				2.562193632125855,
+				13.80335235595703,
+				1.971308827400208,
+				13.69916343688965,
+				2.049851179122925,
+				13.25372695922852
+			],
+			"name" : "image14",
+			"opacity" : 0.7,
+			"renderOrder" : 3,
+			"scale" : 0.6
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -8.152933120727539,
+				"y" : 2.333949565887451
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-8.418365478515625,
+					-7.887501239776611,
+					-7.887501239776611,
+					-8.418365478515625
+				],
+				"y" : 
+				[
+					2.083949565887451,
+					2.083949565887451,
+					2.583949565887451,
+					2.583949565887451
+				]
+			},
+			"file" : "images/stone_1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-8.418365478515625,
+				2.083949565887451,
+				-7.887501239776611,
+				2.083949565887451,
+				-7.887501239776611,
+				2.583949565887451,
+				-8.418365478515625,
+				2.583949565887451
+			],
+			"name" : "image17",
+			"opacity" : 1,
+			"renderOrder" : 3,
+			"scale" : 0.5
+		},
+		
+		{
+			"angle" : 0.1745329201221466,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 1.711673378944397,
+				"y" : 14.24761295318604
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					1.59792435169220,
+					1.894881725311279,
+					1.825422406196594,
+					1.528465032577515
+				],
+				"y" : 
+				[
+					14.02447032928467,
+					14.07683181762695,
+					14.47075557708740,
+					14.41839408874512
+				]
+			},
+			"file" : "images/stone_0.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				1.59792435169220,
+				14.02447032928467,
+				1.894881725311279,
+				14.07683181762695,
+				1.825422406196594,
+				14.47075557708740,
+				1.528465032577515,
+				14.41839408874512
+			],
+			"name" : "image14",
+			"opacity" : 0.7,
+			"renderOrder" : 3,
+			"scale" : 0.4
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 31.84005737304688,
+				"y" : 11.31175041198731
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					32.44005584716797,
+					32.44005584716797,
+					31.24005699157715,
+					31.24005699157715
+				],
+				"y" : 
+				[
+					10.59925079345703,
+					12.02425003051758,
+					12.02425003051758,
+					10.59925079345703
+				]
+			},
+			"file" : "images/stone_3.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				32.44005584716797,
+				10.59925079345703,
+				32.44005584716797,
+				12.02425003051758,
+				31.24005699157715,
+				12.02425003051758,
+				31.24005699157715,
+				10.59925079345703
+			],
+			"name" : "image11",
+			"opacity" : 0.5,
+			"renderOrder" : 3,
+			"scale" : 1.2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 16,
+			"center" : 
+			{
+				"x" : -0.005987167358398438,
+				"y" : 0.006934642791748047
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.3699215948581696,
+					0.3579472601413727,
+					0.3579472601413727,
+					-0.3699215948581696
+				],
+				"y" : 
+				[
+					-0.5930653810501099,
+					-0.5930653810501099,
+					0.6069346666336060,
+					0.6069346666336060
+				]
+			},
+			"file" : "images/barrel.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.3699215948581696,
+				-0.5930653810501099,
+				0.3579472601413727,
+				-0.5930653810501099,
+				0.3579472601413727,
+				0.6069346666336060,
+				-0.3699215948581696,
+				0.6069346666336060
+			],
+			"name" : "barrelSprite2",
+			"opacity" : 1,
+			"renderOrder" : 4,
+			"scale" : 1.2
+		},
+		
+		{
+			"angle" : 2.268928050994873,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 22.98526382446289,
+				"y" : 2.109625339508057
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					23.42297554016113,
+					23.08378219604492,
+					22.54755210876465,
+					22.88674545288086
+				],
+				"y" : 
+				[
+					2.132483243942261,
+					2.536718845367432,
+					2.086767435073853,
+					1.682531833648682
+				]
+			},
+			"file" : "images/stone_0.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				23.42297554016113,
+				2.132483243942261,
+				23.08378219604492,
+				2.536718845367432,
+				22.54755210876465,
+				2.086767435073853,
+				22.88674545288086,
+				1.682531833648682
+			],
+			"name" : "image10",
+			"opacity" : 0.7,
+			"renderOrder" : 4,
+			"scale" : 0.7
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 14,
+			"center" : 
+			{
+				"x" : -0.005987167358398438,
+				"y" : 0.006934642791748047
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.3699215948581696,
+					0.3579472601413727,
+					0.3579472601413727,
+					-0.3699215948581696
+				],
+				"y" : 
+				[
+					-0.5930653810501099,
+					-0.5930653810501099,
+					0.6069346666336060,
+					0.6069346666336060
+				]
+			},
+			"file" : "images/barrel.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.3699215948581696,
+				-0.5930653810501099,
+				0.3579472601413727,
+				-0.5930653810501099,
+				0.3579472601413727,
+				0.6069346666336060,
+				-0.3699215948581696,
+				0.6069346666336060
+			],
+			"name" : "barrelSprite1",
+			"opacity" : 1,
+			"renderOrder" : 4,
+			"scale" : 1.2
+		},
+		
+		{
+			"angle" : 2.268928050994873,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 31.60691833496094,
+				"y" : 12.86072349548340
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					32.04463195800781,
+					31.70543670654297,
+					31.16920661926270,
+					31.50839996337891
+				],
+				"y" : 
+				[
+					12.88358116149902,
+					13.28781700134277,
+					12.83786582946777,
+					12.43362998962402
+				]
+			},
+			"file" : "images/stone_0.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				32.04463195800781,
+				12.88358116149902,
+				31.70543670654297,
+				13.28781700134277,
+				31.16920661926270,
+				12.83786582946777,
+				31.50839996337891,
+				12.43362998962402
+			],
+			"name" : "image10",
+			"opacity" : 0.7,
+			"renderOrder" : 4,
+			"scale" : 0.7
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 1.953773975372315,
+				"y" : 15.02896118164063
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					2.353774070739746,
+					2.353774070739746,
+					1.553773999214172,
+					1.553773999214172
+				],
+				"y" : 
+				[
+					14.72742271423340,
+					15.33049964904785,
+					15.33049964904785,
+					14.72742271423340
+				]
+			},
+			"file" : "images/stone_0.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				2.353774070739746,
+				14.72742271423340,
+				2.353774070739746,
+				15.33049964904785,
+				1.553773999214172,
+				15.33049964904785,
+				1.553773999214172,
+				14.72742271423340
+			],
+			"name" : "image10",
+			"opacity" : 0.5,
+			"renderOrder" : 4,
+			"scale" : 0.8
+		},
+		
+		{
+			"angle" : 2.268928050994873,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 2.038654327392578,
+				"y" : 11.42084312438965
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					2.476366996765137,
+					2.137172937393189,
+					1.600941777229309,
+					1.940135836601257
+				],
+				"y" : 
+				[
+					11.44370079040527,
+					11.84793663024902,
+					11.39798545837402,
+					10.99374961853027
+				]
+			},
+			"file" : "images/stone_0.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				2.476366996765137,
+				11.44370079040527,
+				2.137172937393189,
+				11.84793663024902,
+				1.600941777229309,
+				11.39798545837402,
+				1.940135836601257,
+				10.99374961853027
+			],
+			"name" : "image10",
+			"opacity" : 0.7,
+			"renderOrder" : 4,
+			"scale" : 0.7
+		},
+		
+		{
+			"angle" : 2.268928050994873,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : -9.066402435302734,
+				"y" : 2.370797157287598
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-8.628689765930176,
+					-8.967884063720703,
+					-9.504115104675293,
+					-9.164920806884766
+				],
+				"y" : 
+				[
+					2.393655061721802,
+					2.797890663146973,
+					2.347939252853394,
+					1.943703651428223
+				]
+			},
+			"file" : "images/stone_0.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-8.628689765930176,
+				2.393655061721802,
+				-8.967884063720703,
+				2.797890663146973,
+				-9.504115104675293,
+				2.347939252853394,
+				-9.164920806884766,
+				1.943703651428223
+			],
+			"name" : "image10",
+			"opacity" : 0.7,
+			"renderOrder" : 4,
+			"scale" : 0.7
+		},
+		
+		{
+			"angle" : 1.570796370506287,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 8.939305305480957,
+				"y" : 18.16810417175293
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					9.339304924011231,
+					9.339304924011231,
+					8.539305686950684,
+					8.539305686950684
+				],
+				"y" : 
+				[
+					17.86656570434570,
+					18.46964263916016,
+					18.46964263916016,
+					17.86656570434570
+				]
+			},
+			"file" : "images/stone_0.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				9.339304924011231,
+				17.86656570434570,
+				9.339304924011231,
+				18.46964263916016,
+				8.539305686950684,
+				18.46964263916016,
+				8.539305686950684,
+				17.86656570434570
+			],
+			"name" : "image10",
+			"opacity" : 0.5,
+			"renderOrder" : 4,
+			"scale" : 0.8
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 15,
+			"center" : 
+			{
+				"x" : -0.005987167358398438,
+				"y" : 0.006934642791748047
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.3699215948581696,
+					0.3579472601413727,
+					0.3579472601413727,
+					-0.3699215948581696
+				],
+				"y" : 
+				[
+					-0.5930653810501099,
+					-0.5930653810501099,
+					0.6069346666336060,
+					0.6069346666336060
+				]
+			},
+			"file" : "images/barrel.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.3699215948581696,
+				-0.5930653810501099,
+				0.3579472601413727,
+				-0.5930653810501099,
+				0.3579472601413727,
+				0.6069346666336060,
+				-0.3699215948581696,
+				0.6069346666336060
+			],
+			"name" : "barrelSprite0",
+			"opacity" : 1,
+			"renderOrder" : 5,
+			"scale" : 1.2
+		},
+		
+		{
+			"angle" : 0.7853981852531433,
+			"aspectScale" : 1,
+			"body" : -1,
+			"center" : 
+			{
+				"x" : 2.491234064102173,
+				"y" : 12.58662414550781
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					2.552154064178467,
+					2.925288915634155,
+					2.430314064025879,
+					2.057179212570190
+				],
+				"y" : 
+				[
+					12.15256977081299,
+					12.52570438385010,
+					13.02067852020264,
+					12.64754390716553
+				]
+			},
+			"file" : "images/stone_0.png",
+			"filter" : 0,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				2.552154064178467,
+				12.15256977081299,
+				2.925288915634155,
+				12.52570438385010,
+				2.430314064025879,
+				13.02067852020264,
+				2.057179212570190,
+				12.64754390716553
+			],
+			"name" : "image10",
+			"opacity" : 1,
+			"renderOrder" : 5,
+			"scale" : 0.7
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 13,
+			"center" : 0,
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2419354915618897,
+					0.2419354915618897,
+					0.2419354915618897,
+					-0.2419354915618897
+				],
+				"y" : [ -0.1, -0.1, 0.1, 0.1 ]
+			},
+			"file" : "images/landmine_1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2419354915618897,
+				-0.1,
+				0.2419354915618897,
+				-0.1,
+				0.2419354915618897,
+				0.1,
+				-0.2419354915618897,
+				0.1
+			],
+			"name" : "mineSprite1",
+			"opacity" : 1,
+			"renderOrder" : 9,
+			"scale" : 0.2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 1,
+			"center" : 0,
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2419354915618897,
+					0.2419354915618897,
+					0.2419354915618897,
+					-0.2419354915618897
+				],
+				"y" : [ -0.1, -0.1, 0.1, 0.1 ]
+			},
+			"file" : "images/landmine_1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2419354915618897,
+				-0.1,
+				0.2419354915618897,
+				-0.1,
+				0.2419354915618897,
+				0.1,
+				-0.2419354915618897,
+				0.1
+			],
+			"name" : "mineSprite2",
+			"opacity" : 1,
+			"renderOrder" : 9,
+			"scale" : 0.2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 50,
+			"center" : 0,
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2419354915618897,
+					0.2419354915618897,
+					0.2419354915618897,
+					-0.2419354915618897
+				],
+				"y" : [ -0.1, -0.1, 0.1, 0.1 ]
+			},
+			"file" : "images/landmine_1.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2419354915618897,
+				-0.1,
+				0.2419354915618897,
+				-0.1,
+				0.2419354915618897,
+				0.1,
+				-0.2419354915618897,
+				0.1
+			],
+			"name" : "mineSprite0",
+			"opacity" : 1,
+			"renderOrder" : 9,
+			"scale" : 0.2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 13,
+			"center" : 0,
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2419354915618897,
+					0.2419354915618897,
+					0.2419354915618897,
+					-0.2419354915618897
+				],
+				"y" : [ -0.1, -0.1, 0.1, 0.1 ]
+			},
+			"file" : "images/landmine_2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2419354915618897,
+				-0.1,
+				0.2419354915618897,
+				-0.1,
+				0.2419354915618897,
+				0.1,
+				-0.2419354915618897,
+				0.1
+			],
+			"name" : "mineSprite1_1",
+			"opacity" : 1,
+			"renderOrder" : 10,
+			"scale" : 0.2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 50,
+			"center" : 0,
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2419354915618897,
+					0.2419354915618897,
+					0.2419354915618897,
+					-0.2419354915618897
+				],
+				"y" : [ -0.1, -0.1, 0.1, 0.1 ]
+			},
+			"file" : "images/landmine_2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2419354915618897,
+				-0.1,
+				0.2419354915618897,
+				-0.1,
+				0.2419354915618897,
+				0.1,
+				-0.2419354915618897,
+				0.1
+			],
+			"name" : "mineSprite0_1",
+			"opacity" : 1,
+			"renderOrder" : 10,
+			"scale" : 0.2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 1,
+			"center" : 0,
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2419354915618897,
+					0.2419354915618897,
+					0.2419354915618897,
+					-0.2419354915618897
+				],
+				"y" : [ -0.1, -0.1, 0.1, 0.1 ]
+			},
+			"file" : "images/landmine_2.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2419354915618897,
+				-0.1,
+				0.2419354915618897,
+				-0.1,
+				0.2419354915618897,
+				0.1,
+				-0.2419354915618897,
+				0.1
+			],
+			"name" : "mineSprite2_1",
+			"opacity" : 1,
+			"renderOrder" : 10,
+			"scale" : 0.2
+		},
+		
+		{
+			"aspectScale" : 1,
+			"body" : 12,
+			"center" : 
+			{
+				"x" : -3.468438194431656e-007,
+				"y" : -2.875594162787820e-008
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.1821781694889069,
+					0.1821774840354919,
+					0.1821774840354919,
+					-0.1821781694889069
+				],
+				"y" : 
+				[
+					-0.1821778565645218,
+					-0.1821778565645218,
+					0.1821777969598770,
+					0.1821777969598770
+				]
+			},
+			"file" : "images/ball.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.1821781694889069,
+				-0.1821778565645218,
+				0.1821774840354919,
+				-0.1821778565645218,
+				0.1821774840354919,
+				0.1821777969598770,
+				-0.1821781694889069,
+				0.1821777969598770
+			],
+			"name" : "ballSprite0",
+			"opacity" : 1,
+			"renderOrder" : 10,
+			"scale" : 0.3643556535243988
+		}
+	],
+	"joint" : 
+	[
+		
+		{
+			"anchorA" : 
+			{
+				"x" : -1.907348632812500e-006,
+				"y" : 0
+			},
+			"anchorB" : 0,
+			"bodyA" : 22,
+			"bodyB" : 23,
+			"enableLimit" : false,
+			"enableMotor" : true,
+			"jointSpeed" : 0,
+			"lowerLimit" : 0,
+			"maxMotorTorque" : 1000.0,
+			"motorSpeed" : 8.726646423339844,
+			"name" : "staticsawJoint0",
+			"refAngle" : 0,
+			"type" : "revolute",
+			"upperLimit" : 0
+		},
+		
+		{
+			"anchorA" : 
+			{
+				"x" : -1.907348632812500e-006,
+				"y" : 0
+			},
+			"anchorB" : 0,
+			"bodyA" : 24,
+			"bodyB" : 25,
+			"enableLimit" : false,
+			"enableMotor" : true,
+			"jointSpeed" : 0,
+			"lowerLimit" : 0,
+			"maxMotorTorque" : 1000.0,
+			"motorSpeed" : 8.726646423339844,
+			"name" : "staticsawJoint0",
+			"refAngle" : 0,
+			"type" : "revolute",
+			"upperLimit" : 0
+		},
+		
+		{
+			"anchorA" : 
+			{
+				"x" : 0.001539230346679688,
+				"y" : 0.0004053115844726563
+			},
+			"anchorB" : 
+			{
+				"x" : 0.001539230346679688,
+				"y" : 0.0004053115844726563
+			},
+			"bodyA" : 30,
+			"bodyB" : 28,
+			"enableLimit" : true,
+			"enableMotor" : true,
+			"localAxisA" : 
+			{
+				"x" : 1,
+				"y" : 0
+			},
+			"lowerLimit" : 0,
+			"maxMotorForce" : 1,
+			"motorSpeed" : 0,
+			"name" : "prismaticJoint1",
+			"refAngle" : 0,
+			"type" : "prismatic",
+			"upperLimit" : 5
+		},
+		
+		{
+			"anchorA" : 
+			{
+				"x" : 0.001539230346679688,
+				"y" : 0.0004053115844726563
+			},
+			"anchorB" : 
+			{
+				"x" : 0.001539230346679688,
+				"y" : 0.0004053115844726563
+			},
+			"bodyA" : 28,
+			"bodyB" : 29,
+			"dampingRatio" : 0,
+			"frequency" : 0,
+			"name" : "joint0",
+			"refAngle" : 0,
+			"type" : "weld"
+		},
+		
+		{
+			"anchorA" : 
+			{
+				"x" : -1.907348632812500e-006,
+				"y" : 0
+			},
+			"anchorB" : 0,
+			"bodyA" : 39,
+			"bodyB" : 38,
+			"enableLimit" : false,
+			"enableMotor" : true,
+			"jointSpeed" : 0,
+			"lowerLimit" : 0,
+			"maxMotorTorque" : 1000.0,
+			"motorSpeed" : 8.726646423339844,
+			"name" : "staticsawJoint0",
+			"refAngle" : 0,
+			"type" : "revolute",
+			"upperLimit" : 0
+		},
+		
+		{
+			"anchorA" : 
+			{
+				"x" : 0.001539945602416992,
+				"y" : 0.000404357910156250
+			},
+			"anchorB" : 
+			{
+				"x" : 0.001539945602416992,
+				"y" : 0.000404357910156250
+			},
+			"bodyA" : 48,
+			"bodyB" : 47,
+			"enableLimit" : true,
+			"enableMotor" : true,
+			"localAxisA" : 
+			{
+				"x" : 1,
+				"y" : 0
+			},
+			"lowerLimit" : 0,
+			"maxMotorForce" : 1,
+			"motorSpeed" : 0,
+			"name" : "prismaticJoint0",
+			"refAngle" : 0,
+			"type" : "prismatic",
+			"upperLimit" : 6.5
+		},
+		
+		{
+			"anchorA" : 
+			{
+				"x" : 0.001539945602416992,
+				"y" : 0.000404357910156250
+			},
+			"anchorB" : 
+			{
+				"x" : 0.001539945602416992,
+				"y" : 0.000404357910156250
+			},
+			"bodyA" : 47,
+			"bodyB" : 49,
+			"dampingRatio" : 0,
+			"frequency" : 0,
+			"name" : "joint0",
+			"refAngle" : 0,
+			"type" : "weld"
+		},
+		
+		{
+			"anchorA" : 
+			{
+				"x" : -0.001481056213378906,
+				"y" : 1.057090044021606
+			},
+			"anchorB" : 
+			{
+				"x" : -0.001481056213378906,
+				"y" : 1.057090044021606
+			},
+			"bodyA" : 61,
+			"bodyB" : 60,
+			"enableLimit" : true,
+			"enableMotor" : true,
+			"localAxisA" : 
+			{
+				"x" : 0,
+				"y" : 1
+			},
+			"lowerLimit" : 0,
+			"maxMotorForce" : 5000.0,
+			"motorSpeed" : 0,
+			"name" : "elevatorJoint0",
+			"refAngle" : 0,
+			"type" : "prismatic",
+			"upperLimit" : 20.0
+		},
+		
+		{
+			"anchorA" : 
+			{
+				"x" : -1.907348632812500e-006,
+				"y" : 0
+			},
+			"anchorB" : 0,
+			"bodyA" : 51,
+			"bodyB" : 52,
+			"enableLimit" : false,
+			"enableMotor" : true,
+			"jointSpeed" : 0,
+			"lowerLimit" : 0,
+			"maxMotorTorque" : 1000.0,
+			"motorSpeed" : 8.726646423339844,
+			"name" : "staticsawJoint0",
+			"refAngle" : 0,
+			"type" : "revolute",
+			"upperLimit" : 0
+		},
+		
+		{
+			"anchorA" : 
+			{
+				"x" : -1.907348632812500e-006,
+				"y" : 0
+			},
+			"anchorB" : 0,
+			"bodyA" : 54,
+			"bodyB" : 55,
+			"enableLimit" : false,
+			"enableMotor" : true,
+			"jointSpeed" : 0,
+			"lowerLimit" : 0,
+			"maxMotorTorque" : 1000.0,
+			"motorSpeed" : 8.726646423339844,
+			"name" : "staticsawJoint0",
+			"refAngle" : 0,
+			"type" : "revolute",
+			"upperLimit" : 0
+		},
+		
+		{
+			"anchorA" : 
+			{
+				"x" : -1.907348632812500e-006,
+				"y" : 0
+			},
+			"anchorB" : 0,
+			"bodyA" : 56,
+			"bodyB" : 57,
+			"enableLimit" : false,
+			"enableMotor" : true,
+			"jointSpeed" : 0,
+			"lowerLimit" : 0,
+			"maxMotorTorque" : 1000.0,
+			"motorSpeed" : 8.726646423339844,
+			"name" : "staticsawJoint0",
+			"refAngle" : 0,
+			"type" : "revolute",
+			"upperLimit" : 0
+		},
+		
+		{
+			"anchorA" : 
+			{
+				"x" : -1.907348632812500e-006,
+				"y" : 0
+			},
+			"anchorB" : 0,
+			"bodyA" : 59,
+			"bodyB" : 58,
+			"enableLimit" : false,
+			"enableMotor" : true,
+			"jointSpeed" : 0,
+			"lowerLimit" : 0,
+			"maxMotorTorque" : 1000.0,
+			"motorSpeed" : 8.726646423339844,
+			"name" : "staticsawJoint0",
+			"refAngle" : 0,
+			"type" : "revolute",
+			"upperLimit" : 0
+		},
+		
+		{
+			"anchorA" : 
+			{
+				"x" : -1.907348632812500e-006,
+				"y" : 0
+			},
+			"anchorB" : 0,
+			"bodyA" : 64,
+			"bodyB" : 63,
+			"enableLimit" : false,
+			"enableMotor" : true,
+			"jointSpeed" : 0,
+			"lowerLimit" : 0,
+			"maxMotorTorque" : 1000.0,
+			"motorSpeed" : 8.726646423339844,
+			"name" : "staticsawJoint0",
+			"refAngle" : 0,
+			"type" : "revolute",
+			"upperLimit" : 0
+		}
+	],
+	"positionIterations" : 3,
+	"stepsPerSecond" : 60.0,
+	"subStepping" : false,
+	"velocityIterations" : 8,
+	"warmStarting" : true
+}

@@ -1,0 +1,138 @@
+
+{
+	"allowSleep" : true,
+	"autoClearForces" : true,
+	"body" : 
+	[
+		
+		{
+			"angle" : 0,
+			"angularVelocity" : 0,
+			"awake" : true,
+			"fixture" : 
+			[
+				
+				{
+					"circle" : 
+					{
+						"center" : 0,
+						"radius" : 0.2201500535011292
+					},
+					"density" : 1,
+					"filter-categoryBits" : 128,
+					"filter-maskBits" : 698,
+					"friction" : 1,
+					"name" : "fixture3"
+				}
+			],
+			"linearVelocity" : 0,
+			"massData-I" : 0.003689734032377601,
+			"massData-mass" : 0.1522605717182159,
+			"name" : "bombBody0",
+			"position" : 
+			{
+				"x" : 0.003141172230243683,
+				"y" : -0.0003134608268737793
+			},
+			"type" : 2
+		}
+	],
+	"collisionbitplanes" : 
+	{
+		"names" : 
+		[
+			"bitplane1",
+			"bitplane2",
+			"bitplane3",
+			"bitplane4",
+			"bitplane5",
+			"bitplane6",
+			"bitplane7",
+			"bitplane8",
+			"bitplane9",
+			"bitplane10",
+			"bitplane11",
+			"bitplane12",
+			"bitplane13",
+			"bitplane14",
+			"bitplane15",
+			"bitplane16",
+			"bitplane17",
+			"bitplane18",
+			"bitplane19",
+			"bitplane20",
+			"bitplane21",
+			"bitplane22",
+			"bitplane23",
+			"bitplane24",
+			"bitplane25",
+			"bitplane26",
+			"bitplane27",
+			"bitplane28",
+			"bitplane29",
+			"bitplane30",
+			"bitplane31",
+			"bitplane32"
+		]
+	},
+	"continuousPhysics" : true,
+	"gravity" : 
+	{
+		"x" : 0,
+		"y" : -10
+	},
+	"image" : 
+	[
+		
+		{
+			"aspectScale" : 1,
+			"body" : 0,
+			"center" : 
+			{
+				"x" : -0.008314787410199642,
+				"y" : 0.02909851819276810
+			},
+			"corners" : 
+			{
+				"x" : 
+				[
+					-0.2350729405879974,
+					0.2184433639049530,
+					0.2184433639049530,
+					-0.2350729405879974
+				],
+				"y" : 
+				[
+					-0.2255071401596069,
+					-0.2255071401596069,
+					0.2837041616439819,
+					0.2837041616439819
+				]
+			},
+			"file" : "images/bomb.png",
+			"filter" : 1,
+			"glDrawElements" : [ 0, 1, 2, 2, 3, 0 ],
+			"glTexCoordPointer" : [ 0.0, 0.0, 1, 0.0, 1, 1, 0.0, 1 ],
+			"glVertexPointer" : 
+			[
+				-0.2350729405879974,
+				-0.2255071401596069,
+				0.2184433639049530,
+				-0.2255071401596069,
+				0.2184433639049530,
+				0.2837041616439819,
+				-0.2350729405879974,
+				0.2837041616439819
+			],
+			"name" : "bombSprite0",
+			"opacity" : 1,
+			"renderOrder" : 3,
+			"scale" : 0.5092113018035889
+		}
+	],
+	"positionIterations" : 3,
+	"stepsPerSecond" : 60.0,
+	"subStepping" : false,
+	"velocityIterations" : 8,
+	"warmStarting" : true
+}
